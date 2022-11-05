@@ -35,16 +35,18 @@ Conditions for success:
  
 ## LCIA data
  
-We have LCIA XML formats in ecospold 1 (dead and buried), SimaPro CSV, olca-schema, ILCD, lciafmt (https://github.com/USEPA/LCIAformatter), and the UNEP-SETAC recommendation for regionalized LCIA (https://github.com/cmutel/regionalized-lcia-data-standard).
+We have LCIA XML formats in ecospold 1 (dead and buried), SimaPro CSV, olca-schema, ILCD, [lciafmt](https://github.com/USEPA/LCIAformatter), and the UNEP-SETAC [recommendation for regionalized LCIA](https://github.com/cmutel/regionalized-lcia-data-standard).
  
 Challenge:
  
-The CSV-based approaches (lciafmt and UNEP) are much easier to work with; there is a reason why no LCIA method developers (to the best of my knowledge) have produced XML files. However, none of the existing formats get all the details correct.
+The CSV-based approaches (lciafmt and UNEP) are much easier to work with; there is a reason why no LCIA method developers (to the best of our knowledge) have produced XML files. However, none of the existing formats get all the details correct.
  
-lciafmt is the closest, but:
+`lciafmt` is the closest, but:
  
-* It is only the CSV, and important metadata is missing. Many data scientists have seen this pattern before, and have developed the `datapackage.json` spec for solving this problem. Data which is missing but absolutely vital includes data generators, URLs, and licenses.
-* It doesn't have a proper implementation of regionalization, see https://link.springer.com/article/10.1007/s11367-018-1539-4.
+* It is only the CSV, and important metadata is missing. Many data scientists have seen this pattern before, and have developed the [datapackage](https://specs.frictionlessdata.io/data-package/) spec for solving this problem. Data which is missing but absolutely vital includes data generators, URLs, and licenses.
+* It uses the `/` character for separating strings, though this can appear in elementary flow names and contexts, and therefore requires escaping (not trivial for all users). A better alternative is to specify the separation character in the metadata, and to choose a character or character group which doesn't appear in the data.
+* It doesn't have a proper [implementation of regionalization](https://link.springer.com/article/10.1007/s11367-018-1539-4).
+* It assumes the use of [one elementary flow mapping list](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List).
  
 Proposal:
  
