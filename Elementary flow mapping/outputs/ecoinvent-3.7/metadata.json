@@ -1,0 +1,78 @@
+{
+  "profile": "tabular-data-package",
+  "name": "ecoinvent-3.7",
+  "description": "Elementary flow list as used in release ecoinvent-3.7",
+  "id": "fea0e942526f48e6b4a5813029dbea21",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "created": "2022-11-07T16:58:47.641742Z",
+  "resources": [
+    {
+      "path": "ecoinvent-3.7.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "CASNo",
+            "type": "string"
+          },
+          {
+            "name": "Formula",
+            "type": "string"
+          },
+          {
+            "name": "Synonyms",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "Class",
+            "type": "string"
+          },
+          {
+            "name": "ExternalReference",
+            "type": "string"
+          },
+          {
+            "name": "Preferred",
+            "type": "boolean"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "FlowUUID",
+            "type": "string"
+          },
+          {
+            "name": "AltUnit",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Second CAS",
+            "type": "string",
+            "separated": true
+          }
+        ]
+      }
+    }
+  ]
+}
