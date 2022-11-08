@@ -1,0 +1,266 @@
+{
+  "CML v4.8 2016 no LT": {
+    "version": "4.8",
+    "description": "",
+    "url": "",
+    "uuid": "b8355520a26f4b1584782411ec5bb467"
+  },
+  "CML v4.8 2016": {
+    "version": "4.8",
+    "description": "",
+    "url": "",
+    "uuid": "47f39396a1fd45c097b314e7715b1bd7"
+  },
+  "Crustal Scarcity Indicator 2020": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "27c7477059d044658340242bd56a0025"
+  },
+  "Cumulative Energy Demand (CED)": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "faeeadc4a8c54c21b4e967704f10b9c2"
+  },
+  "Cumulative Exergy Demand (CExD)": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "34cb1803d7c74c73a9edb553b58fa170"
+  },
+  "Ecological Footprint": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "5e2c79092fcf4656b709f21c89f34a89"
+  },
+  "Ecological Scarcity 2021 no LT": {
+    "version": "2021",
+    "description": "",
+    "url": "",
+    "uuid": "af539e6b69a14449a79ede9b1b5957c1"
+  },
+  "Ecological Scarcity 2021": {
+    "version": "2021",
+    "description": "",
+    "url": "",
+    "uuid": "7f001936cb154fff8b4eeb58f504cc3b"
+  },
+  "Ecosystem Damage Potential": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "7cafb86a10ca42c5a06e6671935129f9"
+  },
+  "EDIP 2003 no LT": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "ad13b196bc61402db2f3fca5bf892403"
+  },
+  "EDIP 2003": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "f420ff2d57654c50b3c51a513e05b6f2"
+  },
+  "EF v3.0 no LT": {
+    "version": "3.0",
+    "description": "",
+    "url": "",
+    "uuid": "5f13397eb12d4e8c8e2c4275ce8b956d"
+  },
+  "EF v3.0": {
+    "version": "3.0",
+    "description": "",
+    "url": "",
+    "uuid": "62b745970613451691525e8df4e1a880"
+  },
+  "EF v3.1 no LT": {
+    "version": "3.1",
+    "description": "",
+    "url": "",
+    "uuid": "2bab45ff59fe4d3598dd77580eb167d6"
+  },
+  "EF v3.1": {
+    "version": "3.1",
+    "description": "",
+    "url": "",
+    "uuid": "d38fd37a58be42909d8319306a58d4ac"
+  },
+  "EPS 2020d no LT": {
+    "version": "2020d",
+    "description": "",
+    "url": "",
+    "uuid": "fb2b4fdefc654cfab78482f48cb07200"
+  },
+  "EPS 2020d": {
+    "version": "2020d",
+    "description": "",
+    "url": "",
+    "uuid": "1b4f2dfdd9444fc7b40cda5ef8924233"
+  },
+  "IMPACT 2002+ (Endpoint)": {
+    "version": "2002+",
+    "description": "",
+    "url": "",
+    "uuid": "3ba97f6a1fad4269b018ddaac5898711"
+  },
+  "IMPACT 2002+ (Midpoint)": {
+    "version": "2002+",
+    "description": "",
+    "url": "",
+    "uuid": "c046b3d16c204055913bd5f0d1c34b34"
+  },
+  "IPCC 2013 no LT": {
+    "version": "2013",
+    "description": "",
+    "url": "",
+    "uuid": "f5a38c0f83b745a7981b4c921a7cc707"
+  },
+  "IPCC 2013": {
+    "version": "2013",
+    "description": "",
+    "url": "",
+    "uuid": "5b5dd46b1f2c4f64920f9c9f94936a89"
+  },
+  "IPCC 2021 no LT": {
+    "version": "2021",
+    "description": "",
+    "url": "",
+    "uuid": "9e4571a6f92346c184ba9696da0ebf29"
+  },
+  "IPCC 2021": {
+    "version": "2021",
+    "description": "",
+    "url": "",
+    "uuid": "d75d84b3bb4442be9525e86f9d3eaefd"
+  },
+  "ReCiPe 2016 v1.03, endpoint (E) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "16b6542104b24890b8d5692d4e0c298b"
+  },
+  "ReCiPe 2016 v1.03, endpoint (E)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "cb9f4fd95d4b4fbc98157b8861e1cde3"
+  },
+  "ReCiPe 2016 v1.03, endpoint (H) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "8948071de941466ca376a0c7235fc554"
+  },
+  "ReCiPe 2016 v1.03, endpoint (H)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "992c5fa7a2df45a4aeec6f1e410e3403"
+  },
+  "ReCiPe 2016 v1.03, endpoint (I) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "6bcdbc3f9baa4cb6b5791ac41bed3ea1"
+  },
+  "ReCiPe 2016 v1.03, endpoint (I)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "51e39a27196e4c3381b7e7b8a6fc0f9b"
+  },
+  "ReCiPe 2016 v1.03, midpoint (E) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "93bdbe62d36343de92a6c864123ba73e"
+  },
+  "ReCiPe 2016 v1.03, midpoint (E)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "1630e8c191cc4601926ec6d6a74217e6"
+  },
+  "ReCiPe 2016 v1.03, midpoint (H) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "9e9d98acb3c54ece9f6581ad0b858bc1"
+  },
+  "ReCiPe 2016 v1.03, midpoint (H)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "11aee447b93049cda1bdb66b1681d583"
+  },
+  "ReCiPe 2016 v1.03, midpoint (I) no LT": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "891cde0419c943cb8eb8cff3b6adfe95"
+  },
+  "ReCiPe 2016 v1.03, midpoint (I)": {
+    "version": "1.03",
+    "description": "",
+    "url": "",
+    "uuid": "bcea308c9beb4c49893bc3b1de743aac"
+  },
+  "selected LCI results, additional": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "98735c7721bd456489d138d953c80dae"
+  },
+  "selected LCI results": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "0a29b0f6ef9c4cf0be899fa61e668551"
+  },
+  "TRACI v2.1 no LT": {
+    "version": "2.1",
+    "description": "",
+    "url": "",
+    "uuid": "7e95aa9598654539af5c75c0484290e7"
+  },
+  "TRACI v2.1": {
+    "version": "2.1",
+    "description": "",
+    "url": "",
+    "uuid": "a9dcea5b283a4a44b36c2ca34ae5905d"
+  },
+  "USEtox no LT": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "c77733eef3bc4501a2dfe07729adf332"
+  },
+  "USEtox": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "c53d421aab1e422595c8cbdc2cf74976"
+  },
+  "EF v3.0 EN15804": {
+    "version": "3.0",
+    "description": "",
+    "url": "",
+    "uuid": "eac18ab11eb74ac59206610fe50d49d2"
+  },
+  "EF v3.1 EN15804": {
+    "version": "3.1",
+    "description": "",
+    "url": "",
+    "uuid": "4ddc9fba919b4eb29b5ba10c1dbdbca2"
+  },
+  "EN15804": {
+    "version": "1.0",
+    "description": "",
+    "url": "",
+    "uuid": "6dfa152a7d5f488c961cefc53449b742"
+  }
+}

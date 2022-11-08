@@ -1,0 +1,3812 @@
+[
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "acidification no LT|acidification (incl. fate, average Europe total, A&B) no LT",
+    "uuid": "7da02f593a8249a99ccbc19cefe795cc"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "60fdb2715e93472d9d1e28343917044a"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "ecotoxicity: freshwater no LT|freshwater aquatic ecotoxicity (FAETP inf) no LT",
+    "uuid": "41ab68d5b452491386424a64e2b59007"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "ecotoxicity: marine no LT|marine aquatic ecotoxicity (MAETP inf) no LT",
+    "uuid": "b6640ac9e8c44c2697e3d96e0745ada0"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "ecotoxicity: terrestrial no LT|terrestrial ecotoxicity (TETP inf) no LT",
+    "uuid": "d4c9e05e43ba4d03829face1eae1f884"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "energy resources: non-renewable no LT|abiotic depletion potential (ADP): fossil fuels no LT",
+    "uuid": "a763e20ff579410aa2e57bb1fadf6cf9"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "eutrophication no LT|eutrophication (fate not incl.) no LT",
+    "uuid": "ed96dcb0264b42369dfc0279e5fb877d"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "human toxicity no LT|human toxicity (HTP inf) no LT",
+    "uuid": "59a3a62fd0254e898a29073195cbd9af"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "material resources: metals/minerals no LT|abiotic depletion potential (ADP): elements (ultimate reserves) no LT",
+    "uuid": "74a86558768f429a9f7ed42357e0359a"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "ozone depletion no LT|ozone layer depletion (ODP steady state) no LT",
+    "uuid": "f23463d6ad5f4206a5ad1502a0766795"
+  },
+  {
+    "method": "CML v4.8 2016 no LT",
+    "indicator": "photochemical oxidant formation no LT|photochemical oxidation (high NOx) no LT",
+    "uuid": "178f0bb9381948298a5bb7ee6ce0d74d"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "acidification|acidification (incl. fate, average Europe total, A&B)",
+    "uuid": "8a6d3874f34e495c8c4f5707d0b1b009"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "66e0f226c50341a0a0663a3145680e82"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "ecotoxicity: freshwater|freshwater aquatic ecotoxicity (FAETP inf)",
+    "uuid": "5ffe06a7916d4fdea49e754a5b8b3338"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "ecotoxicity: marine|marine aquatic ecotoxicity (MAETP inf)",
+    "uuid": "b21b96a7ab314db992f9f30f57d7800e"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "ecotoxicity: terrestrial|terrestrial ecotoxicity (TETP inf)",
+    "uuid": "8564d9e6dd1e4a3ca917a18101ca20e1"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "energy resources: non-renewable|abiotic depletion potential (ADP): fossil fuels",
+    "uuid": "4bd575d7d1bb43f1a08e57caa728245a"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "eutrophication|eutrophication (fate not incl.)",
+    "uuid": "e499a06bf443424b8e22d0b739f7cc19"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "human toxicity|human toxicity (HTP inf)",
+    "uuid": "c2c0a00bee4f4011ad7bd89edf5249bb"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "material resources: metals/minerals|abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "uuid": "07001f2b4d4e44498ec6faad59516c90"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "ozone depletion|ozone layer depletion (ODP steady state)",
+    "uuid": "2545467a2d664706b0c9923b48ac845a"
+  },
+  {
+    "method": "CML v4.8 2016",
+    "indicator": "photochemical oxidant formation|photochemical oxidation (high NOx)",
+    "uuid": "acea9238dd39484b812f20e8d5755bb2"
+  },
+  {
+    "method": "Crustal Scarcity Indicator 2020",
+    "indicator": "material resources: metals/minerals|crustal scarcity potential (CSP)",
+    "uuid": "68c190556049416da8c7497e8c7987fb"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: non-renewable|energy content (HHV)",
+    "uuid": "bbdeecd534c8425ebc470e3ddde9cad3"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: non-renewable, biomass|energy content (HHV)",
+    "uuid": "d2f17429a0fa43db9010b4a619736d27"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: non-renewable, fossil|energy content (HHV)",
+    "uuid": "ef81c972e9ae4fae9688d376d62b7ef4"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: non-renewable, nuclear|energy content (HHV)",
+    "uuid": "1cd4181f610742ccaf3e8fb7944d6f7b"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable|energy content (HHV)",
+    "uuid": "2265f310a841475d952f7b7e870ba293"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, biomass|energy content (HHV)",
+    "uuid": "9681aeae21cb4804b376f94914951f34"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, geothermal|energy content (HHV)",
+    "uuid": "ce0938bddbbe4e208c5d4ff44009835b"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, geothermal, solar, wind|energy content (HHV)",
+    "uuid": "28737cdbba0f426283195af7b5c52c39"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, solar|energy content (HHV)",
+    "uuid": "1b763f68f1074648be0a80ece17fc71e"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, water|energy content (HHV)",
+    "uuid": "8e9b5553a0664101a174150df4b3658f"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "energy resources: renewable, wind|energy content (HHV)",
+    "uuid": "e4072b5db7af455ab72f2cfb690ef426"
+  },
+  {
+    "method": "Cumulative Energy Demand (CED)",
+    "indicator": "total|energy content (HHV)",
+    "uuid": "ef74b361600c41199cc46ea6aefb2fe7"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: non-renewable|exergy content",
+    "uuid": "1a0c199bb6994d8bafd289258cb3c694"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: non-renewable, biomass|exergy content",
+    "uuid": "18aff46d04de4a6abfe6c155fced4607"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: non-renewable, fossil|exergy content",
+    "uuid": "966dab634f4b4cf18dc0e01ed5578655"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: non-renewable, nuclear|exergy content",
+    "uuid": "4c185aaf70f942cdb2f0b3f7cf69aad4"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: renewable|exergy content",
+    "uuid": "c6721c1afaed49c68b0bd6dbe4e0adc7"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: renewable, biomass|exergy content",
+    "uuid": "99d4d08c8dee4482a74030f1eb7dcede"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: renewable, solar|exergy content",
+    "uuid": "2db5dd8a28fb42d3bfaad2e0d6ab46cc"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: renewable, water|exergy content",
+    "uuid": "c5e4ac4f36854e38bed6006481ffc371"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "energy resources: renewable, wind|exergy content",
+    "uuid": "e2e6a42fb2a14781a73ffee5a9a1e0b3"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "material resources|exergy content",
+    "uuid": "9a7031d91766497d88094c1bd3e49927"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "material resources: metals|exergy content",
+    "uuid": "f76d64610c7743d798d8b7217fc6e89c"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "material resources: minerals|exergy content",
+    "uuid": "dec87969cdad406594dc42a1caf1fda0"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "material resources: water|exergy content",
+    "uuid": "7d89c5752acd4addbdec0b91080f575f"
+  },
+  {
+    "method": "Cumulative Exergy Demand (CExD)",
+    "indicator": "total|exergy content",
+    "uuid": "7080cdd2ca9742ed90f3de2d88c852b8"
+  },
+  {
+    "method": "Ecological Footprint",
+    "indicator": "CO2|global hectares",
+    "uuid": "18dc77b1c2fd431884b9b3553c947c62"
+  },
+  {
+    "method": "Ecological Footprint",
+    "indicator": "land occupation|global hectares",
+    "uuid": "bf37a0668a44479593046f8dd507f8e1"
+  },
+  {
+    "method": "Ecological Footprint",
+    "indicator": "nuclear|global hectares",
+    "uuid": "cafb56c1d141426c9988062f22771967"
+  },
+  {
+    "method": "Ecological Footprint",
+    "indicator": "total|global hectares",
+    "uuid": "04cdd1c895284bc091c4464bd073c748"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "258f53fb04be446ca7b6ac905171cc13"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to air no LT|air pollutants and PM no LT",
+    "uuid": "2502e7628bfc4e7185a69e1192ed9f98"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to air no LT|carcinogenic substances into air no LT",
+    "uuid": "d9401073cbb04a0b9a93b5ee6f838549"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to air no LT|heavy metals into air no LT",
+    "uuid": "da16888bcb4a439e9dde6f6025b6c2d0"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to air no LT|radioactive substances into air no LT",
+    "uuid": "03af93927ae0425fa2e1848c89610f34"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to soil no LT|heavy metals into soil no LT",
+    "uuid": "296300de74e6422bb5906637032b1de4"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to soil no LT|pesticides into soil no LT",
+    "uuid": "06870fd9f3c742ddb0aa5bedc451991f"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to water no LT|heavy metals into water no LT",
+    "uuid": "62218a64c8af48f8ab4466574bbcaf04"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to water no LT|POP into water no LT",
+    "uuid": "41bb0d65194d4f99aa1e470ab8b5cfc7"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to water no LT|radioactive substances into water no LT",
+    "uuid": "5d3a02f4c3bc4c93baeb6672301b2184"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "emissions to water no LT|water pollutants no LT",
+    "uuid": "c091594da3fa405d9439b3d3d91f55c5"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "energy resources no LT|energy resources no LT",
+    "uuid": "0fceca69c9a54ed9bee0b2c3afe941f4"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "land use no LT|land use no LT",
+    "uuid": "621eb46d6f854344b3ee613ba68bfb48"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "mineral resources no LT|mineral resources no LT",
+    "uuid": "2418ed4d6e414d9a86cfd4b2ebae9151"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "natural resources no LT|biotic resources no LT",
+    "uuid": "1c90fad591c441edab37ae4b0f055bd1"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "ozone depletion no LT|ozone depletion no LT",
+    "uuid": "e2d652c521954977a4d9e16a91c1328d"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "total no LT|UBP no LT",
+    "uuid": "8d695ddb1bee416885ade219e500f407"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "waste disposal no LT|radioactive waste to deposit no LT",
+    "uuid": "de14759647b64f359a1311d5d6d39a56"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "waste disposal no LT|waste, non radioactive no LT",
+    "uuid": "b7fa14a1879947e1b31ec52bf56fed26"
+  },
+  {
+    "method": "Ecological Scarcity 2021 no LT",
+    "indicator": "water use no LT|water resources, evaporated no LT",
+    "uuid": "939d219b160d43a79bc2ebee25721aa1"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "bb83fcf9258545cea5df2a3c8e356d5d"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to air|air pollutants and PM",
+    "uuid": "ed6ed891ec454cdab31c4c0884ef8695"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to air|carcinogenic substances into air",
+    "uuid": "f29fc578ab16411386b55314d0267777"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to air|heavy metals into air",
+    "uuid": "9aaa826a116547e8a1cdfbdb9ba4a119"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to air|radioactive substances into air",
+    "uuid": "82ca497c26654714b1c665c9af11b1c1"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to soil|heavy metals into soil",
+    "uuid": "939e1aa2aea644afbc1a2cc06b8e96af"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to soil|pesticides into soil",
+    "uuid": "8e6f8fa90aa247fb96a806b4058f2405"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to water|heavy metals into water",
+    "uuid": "2dc2da1b51da4382bc7f09c22f828013"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to water|POP into water",
+    "uuid": "d7bd72d97e3941aea98bbfde216c8dff"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to water|radioactive substances into water",
+    "uuid": "d71c4e517fa14e5ea5382d853fc7e721"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "emissions to water|water pollutants",
+    "uuid": "8eea9cc2358c4f4a9e277e29852e0d71"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "energy resources|energy resources",
+    "uuid": "9329de98eddb441b89d7b25e194e5092"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "land use|land use",
+    "uuid": "f119a47984304aa09a00e87877716460"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "mineral resources|mineral resources",
+    "uuid": "6ae6211ef61745b5bab17a6866fba556"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "natural resources|biotic resources",
+    "uuid": "d2a489c976e5433394dd562322c627cb"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "ozone depletion|ozone depletion",
+    "uuid": "46cffa4e54a74797891039282fb055b0"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "total|UBP",
+    "uuid": "10cd7a412a8b4804a7d89c3dd8689df9"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "waste disposal|radioactive waste to deposit",
+    "uuid": "e2b0bff3e7094d75bf21c31198382bb4"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "waste disposal|waste, non radioactive",
+    "uuid": "ca89f55dde3d46b5978879d2e1c617ac"
+  },
+  {
+    "method": "Ecological Scarcity 2021",
+    "indicator": "water use|water resources, evaporated",
+    "uuid": "8764b798e8234e29ae1d367ae5c19faf"
+  },
+  {
+    "method": "Ecosystem Damage Potential",
+    "indicator": "land occupation|ecosystem damage potential",
+    "uuid": "8a2c1d863e80430f958ba02e76fe130d"
+  },
+  {
+    "method": "Ecosystem Damage Potential",
+    "indicator": "land transformation|ecosystem damage potential",
+    "uuid": "9b330d73d0b244679614907586e9776f"
+  },
+  {
+    "method": "Ecosystem Damage Potential",
+    "indicator": "total|ecosystem damage potential",
+    "uuid": "5ce36ff8d2cf4848b07fab13835d47be"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "acidification no LT|acidification no LT",
+    "uuid": "f567ee9c7e394a43a3b227b1473c11bd"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "ecotoxicity no LT|acute, in water no LT",
+    "uuid": "009b8e7c74254e3fb57d8ac00da57737"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "ecotoxicity no LT|chronic, in soil no LT",
+    "uuid": "48004b62709d4a3da10700401e9330d2"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "ecotoxicity no LT|chronic, in water no LT",
+    "uuid": "e0ca36f1b3ed4ed3aa5876d9002c05e8"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "ecotoxicity no LT|in sewage treatment plants no LT",
+    "uuid": "b1d84caf3e1f452390c90ab9d5994d70"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "eutrophication no LT|combined potential no LT",
+    "uuid": "3d5c50ac9ad14df5a4ab160b44d44531"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "eutrophication no LT|separate N potential no LT",
+    "uuid": "5a885ac0c3fb46b98646012d24297b09"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "eutrophication no LT|separate P potential no LT",
+    "uuid": "ee60246e1f1a43698637d76ed89071de"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "eutrophication no LT|terrestrial eutrophication no LT",
+    "uuid": "5878a765fb6d461fbac0929598d43654"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "global warming no LT|GWP 100a no LT",
+    "uuid": "b0d5dc86c6f048fd9329fed474d677a2"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "global warming no LT|GWP 20a no LT",
+    "uuid": "4ca28031c66b4f5a9a75e9b7f1f1f3bf"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "global warming no LT|GWP 500a no LT",
+    "uuid": "897fa792775c4440abc08bf7a8b16377"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "human toxicity no LT|via air no LT",
+    "uuid": "214b0956b9014da994d8c35862a23796"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "human toxicity no LT|via soil no LT",
+    "uuid": "3f7105d994f249d9ba59be38a94ab8a4"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "human toxicity no LT|via surface water no LT",
+    "uuid": "605ccda9e82b4eb099d17e5629d9584f"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "land filling no LT|bulk waste no LT",
+    "uuid": "278aa5643104499a8b33d35d49e5d54d"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "land filling no LT|hazardous waste no LT",
+    "uuid": "64767e645f474f45a5397032369e7850"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "land filling no LT|radioactive waste no LT",
+    "uuid": "0847c201ec554a8680b37e6e03ca435b"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "land filling no LT|slag and ashes no LT",
+    "uuid": "923efa7ea7024591a47062e21a16c487"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|aluminium no LT",
+    "uuid": "f7511c4620d54bf792c807443bf51623"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|antimony no LT",
+    "uuid": "a49bce0aadb340a9a0e5de561fa58a17"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|brown coal no LT",
+    "uuid": "430d0508f2914811a6e8c8fc780f9de4"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|cadmium no LT",
+    "uuid": "edf8f3a79a5347eb8fccc45f69355f1e"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|cerium no LT",
+    "uuid": "7381b374d42446f4a69fd7de7dafaf5c"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|coal no LT",
+    "uuid": "a0d4cdabd5e04d28998b178c81f15989"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|cobalt no LT",
+    "uuid": "c8d4728fad514c80bef0533978984889"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|copper no LT",
+    "uuid": "fad1d2f30a5b4740bc8883af705e6f1e"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|gold no LT",
+    "uuid": "1bf25e598c2947a595cb75d7e34b80e7"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|iron no LT",
+    "uuid": "50c00030752045cb993f325fba983d3c"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|lanthanum no LT",
+    "uuid": "2c9ec8160ca342c89b2294a36dc84703"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|lead no LT",
+    "uuid": "6736c7b13fab4ad5bc04a43a1fb6b917"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|manganese no LT",
+    "uuid": "986a2bbb7a5342de983920e30bc0bc99"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|mercury no LT",
+    "uuid": "1e65dd2108bd4d828a6baa53726e6a5a"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|molybdenum no LT",
+    "uuid": "d5a7106be9f7400eafb146d2744f71c7"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|natural gas no LT",
+    "uuid": "023512646fb246caa4e379712834f37e"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|nickel no LT",
+    "uuid": "26caed88ffe04e2ebef2ef829205556b"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|oil no LT",
+    "uuid": "0ada8a176c314fb69b22dee1328d9a82"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|palladium no LT",
+    "uuid": "16e190feaffe4ad39b16b8f3d1404414"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|platinum no LT",
+    "uuid": "9002129edd5344fc9452d7a54741a8ac"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|silver no LT",
+    "uuid": "92dfb473a164491c98f2f088d398f79c"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|tantalum no LT",
+    "uuid": "0f9b76c75f6f4c7691ec0a2f990ed0c8"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|tin no LT",
+    "uuid": "c2ec1ff44b874d2b9e329e7ad8bb2d87"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "non-renewable resources no LT|zinc no LT",
+    "uuid": "9df1a41f3ce34b589853b04043b2818f"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "photochemical ozone formation no LT|impacts on human health no LT",
+    "uuid": "74ed80605dd340fcaaedfdacee56bfa5"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "photochemical ozone formation no LT|impacts on vegetation no LT",
+    "uuid": "b9d1db40532948d887fd6380a76f27aa"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "renewable resources no LT|wood no LT",
+    "uuid": "fec3f53161d6480695327ef4595c6567"
+  },
+  {
+    "method": "EDIP 2003 no LT",
+    "indicator": "stratospheric ozone depletion no LT|ODP total no LT",
+    "uuid": "6a2b28a1abb945f88b8fbeec0a6d293b"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "acidification|acidification",
+    "uuid": "d3d934b53a82472f94afe0188e9426ee"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "ecotoxicity|acute, in water",
+    "uuid": "8bb45c85367849aca56924271b1d65a8"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "ecotoxicity|chronic, in soil",
+    "uuid": "86b4d4dad5a14100ae487c018064430a"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "ecotoxicity|chronic, in water",
+    "uuid": "c379facc6b5f4973bd75623fd3259acb"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "ecotoxicity|in sewage treatment plants",
+    "uuid": "8990b4451db941f6946fb8563224ea6b"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "eutrophication|combined potential",
+    "uuid": "bdb494e5649b44a88b02130f721ab324"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "eutrophication|separate N potential",
+    "uuid": "d7367c90133348d487bc08616afbb27e"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "eutrophication|separate P potential",
+    "uuid": "3b394920eb84445fa6986d5f3b07a39d"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "eutrophication|terrestrial eutrophication",
+    "uuid": "487f842d1f4c4550accbe0726249df6d"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "global warming|GWP 100a",
+    "uuid": "a6686f6472d243e8a1ab0483a9e298a0"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "global warming|GWP 20a",
+    "uuid": "a0cf44e0c11140dd928b7c101f1576f2"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "global warming|GWP 500a",
+    "uuid": "03718593d22b4b5aa17892a8a7dccf37"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "human toxicity|via air",
+    "uuid": "b877867d106a449487d1726821efb2b7"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "human toxicity|via soil",
+    "uuid": "46f319066e9445d2b51af758facf715f"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "human toxicity|via surface water",
+    "uuid": "6d91a1414a5d4e1098fba2bb4a8f9a3f"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "land filling|bulk waste",
+    "uuid": "3d687607873a4e90b1b5329a01c76553"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "land filling|hazardous waste",
+    "uuid": "1c23b10aa9ce4188a36c54a640f23e60"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "land filling|radioactive waste",
+    "uuid": "5bfbf8cbede24013bfec42d6856a6d9d"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "land filling|slag and ashes",
+    "uuid": "34d8f8a30e0b44b6ba9761df632ee27f"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|aluminium",
+    "uuid": "02f5da1a4030459f931a33e123ab1d27"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|antimony",
+    "uuid": "67b32243e0604c7eb605c30795e7a7ce"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|brown coal",
+    "uuid": "d8ba69a5cad34b12bf8f7371bc114b9e"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|cadmium",
+    "uuid": "4950b82f0ccc43029dfd5a5b6c35743c"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|cerium",
+    "uuid": "24353debcd074de08660ec4e0a158326"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|coal",
+    "uuid": "968ce12b94bb431fbc103cb7545177ae"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|cobalt",
+    "uuid": "b4c8413a52b94cef906a0e35a66c4aa9"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|copper",
+    "uuid": "856fb51b48214ecda3685f9709119f3f"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|gold",
+    "uuid": "a2f0e6ad90844a33b0930b71a243e261"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|iron",
+    "uuid": "8216f4c482654dbfa23fd2046fad79e3"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|lanthanum",
+    "uuid": "10c3a50ea1084c609438a5d84ed8c08e"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|lead",
+    "uuid": "f98ef4ad92704e5385e8bfd4d2a3ba64"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|manganese",
+    "uuid": "380066447007420c85118bf0bca1bd2f"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|mercury",
+    "uuid": "0accd0f4eb14413abdd4095ae23f89cc"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|molybdenum",
+    "uuid": "25cf2268972f4c099a153856a9747f26"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|natural gas",
+    "uuid": "d249e6be72e64e4baed213f8f2eb08a9"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|nickel",
+    "uuid": "9cec70062e3e45ac88d2c2f84f208910"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|oil",
+    "uuid": "4d58f06cd5b3465b8076c58458c87737"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|palladium",
+    "uuid": "b079ce863840433aa8b85d18c9fd6930"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|platinum",
+    "uuid": "b69a270592ef4e9c9cceda00a99f28af"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|silver",
+    "uuid": "baf0641789bf4d91af5f301d9c7103e6"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|tantalum",
+    "uuid": "c353e15c53e84152819e2f61fc36eaa7"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|tin",
+    "uuid": "0adcdf48842e4c03a738ac19067d4883"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "non-renewable resources|zinc",
+    "uuid": "63d198f40f4f469292dc4f506bb0ffca"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "photochemical ozone formation|impacts on human health",
+    "uuid": "845ba7b3b07749a3abf7dcd0eb1be459"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "photochemical ozone formation|impacts on vegetation",
+    "uuid": "eb7a31a18a0c4377af97aa480c265fc4"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "renewable resources|wood",
+    "uuid": "a5cfa3fb80a74500a221b15a93ce5f05"
+  },
+  {
+    "method": "EDIP 2003",
+    "indicator": "stratospheric ozone depletion|ODP total",
+    "uuid": "60587fd0a0bd49cf82a90cbd3b47bf3c"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "acidification no LT|accumulated exceedance (AE) no LT",
+    "uuid": "543926470dbc42bc9b1b9aede390e566"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "440429d7600f422a9ad497f3d72a4bee"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "climate change: biogenic no LT|global warming potential (GWP100) no LT",
+    "uuid": "6583b71d43054824918fb293ddf4ae1b"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "climate change: fossil no LT|global warming potential (GWP100) no LT",
+    "uuid": "7663eee538a44f60b4479e3292e7ea08"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "climate change: land use and land use change no LT|global warming potential (GWP100) no LT",
+    "uuid": "3a7a50bffd8a40ffab2faf5fc2f2739f"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ecotoxicity: freshwater no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "5425c13e5a4e4a4e89482762389566c7"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ecotoxicity: freshwater, inorganics no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "e0461951ca92423bb9c24068e394615e"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ecotoxicity: freshwater, metals no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "79540d39b8b7448691beab2c56ec2923"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ecotoxicity: freshwater, organics no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "2ab39c0685214824b69541506dd728ab"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "energy resources: non-renewable no LT|abiotic depletion potential (ADP): fossil fuels no LT",
+    "uuid": "5a4f7be18c1a449282a4a60e57286371"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "eutrophication: freshwater no LT|fraction of nutrients reaching freshwater end compartment (P) no LT",
+    "uuid": "52fed7c2e8b4482b94ac7951bee5b5ef"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "eutrophication: marine no LT|fraction of nutrients reaching marine end compartment (N) no LT",
+    "uuid": "fcc3e21a680043e39dbe99a44a852e65"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "eutrophication: terrestrial no LT|accumulated exceedance (AE) no LT",
+    "uuid": "b225bd74e78a4e73aad4a71b8d8e7c25"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: carcinogenic no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "51dc7fec59424856b3bf9c6b8a819f8c"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: carcinogenic, inorganics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "8a11f741778547c7b23cff05649f786c"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: carcinogenic, metals no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "d46c1b44008f4d049c4da3745f54c6c2"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: carcinogenic, organics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "a9fad9c752ca4e93874634cb4b3cd957"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "85d9429a09c04f69861be06a10a90d38"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: non-carcinogenic, inorganics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "51c52e52b54840f69363df64ccf44f83"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: non-carcinogenic, metals no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "c607a93e0b444461a1f44ccb685316f1"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "human toxicity: non-carcinogenic, organics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "eddec220af05463099929b84b6c79d2b"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ionising radiation: human health no LT|human exposure efficiency relative to u235 no LT",
+    "uuid": "cc65ccacc1bf4ec98789f7c1c5c112e9"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "land use no LT|soil quality index no LT",
+    "uuid": "fe8f641f89764a799a8358c1d8b06f90"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "material resources: metals/minerals no LT|abiotic depletion potential (ADP): elements (ultimate reserves) no LT",
+    "uuid": "7b6374fec82241ff9c9bcc1f83a0ee53"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODP) no LT",
+    "uuid": "ed7f9968c1b54ccdb7910f7785d08af8"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "particulate matter formation no LT|impact on human health no LT",
+    "uuid": "1e3815333d4a41bfbe4bfdac5e74ce71"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "photochemical oxidant formation: human health no LT|tropospheric ozone concentration increase no LT",
+    "uuid": "a96e52aff3b44cfe9535f02e84e59376"
+  },
+  {
+    "method": "EF v3.0 no LT",
+    "indicator": "water use no LT|user deprivation potential (deprivation-weighted water consumption) no LT",
+    "uuid": "4ea7066549f04661a21a6b56580e4929"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "acidification|accumulated exceedance (AE)",
+    "uuid": "d357443eb5064f0aab065324299183fb"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "26215974f3ce41278d33ad454f1b6375"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "climate change: biogenic|global warming potential (GWP100)",
+    "uuid": "3c4ff10bcb6b458783faa923d2109ff5"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "climate change: fossil|global warming potential (GWP100)",
+    "uuid": "81643db5b12d4153a67c080a5a9a214f"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "climate change: land use and land use change|global warming potential (GWP100)",
+    "uuid": "f0c1778cc5d54af4b83c40edee5be5f6"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ecotoxicity: freshwater|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "b67875356db549c8b54381023609ce24"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ecotoxicity: freshwater, inorganics|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "fd9de34e9acb4089b2ec02afba05ed68"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ecotoxicity: freshwater, metals|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "ceb67b1ab56f43cabb24ca58a58e648e"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ecotoxicity: freshwater, organics|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "9954adfa3df842cf9deaebe486f7178b"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "energy resources: non-renewable|abiotic depletion potential (ADP): fossil fuels",
+    "uuid": "65930806ecb0415c9bafa6ac8c447198"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "eutrophication: freshwater|fraction of nutrients reaching freshwater end compartment (P)",
+    "uuid": "b070024f478e47d9913938bd49338238"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "eutrophication: marine|fraction of nutrients reaching marine end compartment (N)",
+    "uuid": "ef36e1d46fd841398e6311ded5056a00"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "eutrophication: terrestrial|accumulated exceedance (AE)",
+    "uuid": "e9e22b4ed279404fa89a9d47fd6c0f5d"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "522cef9da920485f93783b1c3a4776ff"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: carcinogenic, inorganics|comparative toxic unit for human (CTUh)",
+    "uuid": "c6b4a89d5b3545ca9936db6444145214"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: carcinogenic, metals|comparative toxic unit for human (CTUh)",
+    "uuid": "53e714fe67114f1ebac95e9520353368"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: carcinogenic, organics|comparative toxic unit for human (CTUh)",
+    "uuid": "633a6684f4b948c69efeed670830c550"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: non-carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "bbba5e1ee2914b6eadf9d31533c144e0"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: non-carcinogenic, inorganics|comparative toxic unit for human (CTUh)",
+    "uuid": "97feb5875f8f48a28792646dcfd0818c"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: non-carcinogenic, metals|comparative toxic unit for human (CTUh)",
+    "uuid": "d6ef90afcb774b04a7872b70f57c790c"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "human toxicity: non-carcinogenic, organics|comparative toxic unit for human (CTUh)",
+    "uuid": "c2633762ca2b499e8ab923ae612bb3b4"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ionising radiation: human health|human exposure efficiency relative to u235",
+    "uuid": "4f3bdf0848b54d858b793578c5783f0f"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "land use|soil quality index",
+    "uuid": "c03f55c17cac4d78a46e9bd24a94fe45"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "material resources: metals/minerals|abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "uuid": "1c553d0711bc4a688ac31fd72b884510"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "ozone depletion|ozone depletion potential (ODP)",
+    "uuid": "3b37fdc17976470a9ccd34e644d11344"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "particulate matter formation|impact on human health",
+    "uuid": "5336a2a55779463491e1604e981daebc"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "photochemical oxidant formation: human health|tropospheric ozone concentration increase",
+    "uuid": "9caef75cd7974a95a6e42ba13117cd0e"
+  },
+  {
+    "method": "EF v3.0",
+    "indicator": "water use|user deprivation potential (deprivation-weighted water consumption)",
+    "uuid": "c7a549f49f0948e5bf6e5f38b5bd9fd2"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "acidification no LT|accumulated exceedance (AE) no LT",
+    "uuid": "ffea12fe6933405d9d50e88e35a88aa3"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "703c1acc0fa04a49a3e361ffc02fb470"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "climate change: biogenic no LT|global warming potential (GWP100) no LT",
+    "uuid": "8f4d67a30f924400a8e1159b22a38208"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "climate change: fossil no LT|global warming potential (GWP100) no LT",
+    "uuid": "a9bcd4d2a88f482cb0665b1e3f9e148b"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "climate change: land use and land use change no LT|global warming potential (GWP100) no LT",
+    "uuid": "fda8d94f17894227861d4c5163f926ff"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "ecotoxicity: freshwater no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "74698978db064da2b36daa869d0e4cb8"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "ecotoxicity: freshwater, inorganics no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "2e528027179b4935930ee538e024adc9"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "ecotoxicity: freshwater, organics no LT|comparative toxic unit for ecosystems (CTUe) no LT",
+    "uuid": "b20498dc3d1a4129be984dfa4af83750"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "energy resources: non-renewable no LT|abiotic depletion potential (ADP): fossil fuels no LT",
+    "uuid": "796fa418e24849dca5e3aaa4a9c65695"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "eutrophication: freshwater no LT|fraction of nutrients reaching freshwater end compartment (P) no LT",
+    "uuid": "28c0aa7623dc42938cdc121403d3b420"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "eutrophication: marine no LT|fraction of nutrients reaching marine end compartment (N) no LT",
+    "uuid": "94e78ab2fc7b454a8f900a878f5aa427"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "eutrophication: terrestrial no LT|accumulated exceedance (AE) no LT",
+    "uuid": "6f1a33f583bc43c5b13c6338494d439a"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: carcinogenic no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "f0cd57d0bf7c44b0b0a551baa8406902"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: carcinogenic, inorganics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "43311a402dfc4ff6bf304bb5c374765a"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: carcinogenic, organics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "480b1c088d5c4354bf8c4b75e3c7c9bf"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "eb697b1c12c048468fa5611d4e896366"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: non-carcinogenic, inorganics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "58d07d942ed449eb85bfbfd2bee0a616"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "human toxicity: non-carcinogenic, organics no LT|comparative toxic unit for human (CTUh) no LT",
+    "uuid": "ea74b37370c14c25b00c2dafc83de17a"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "ionising radiation: human health no LT|human exposure efficiency relative to u235 no LT",
+    "uuid": "85d2d9259a1143e9abe00f213762caef"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "land use no LT|soil quality index no LT",
+    "uuid": "47707978d95f4fa993839b8dde681205"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "material resources: metals/minerals no LT|abiotic depletion potential (ADP): elements (ultimate reserves) no LT",
+    "uuid": "87da6b61a4924d78ac2aff762af2ec41"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODP) no LT",
+    "uuid": "dc796209413e47cf9ef00c1bef4e2401"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "particulate matter formation no LT|impact on human health no LT",
+    "uuid": "bbd0aafde9e94815b46fa97123c30ec0"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "photochemical oxidant formation: human health no LT|tropospheric ozone concentration increase no LT",
+    "uuid": "2e0524bc37134b23999a0526d6f81a25"
+  },
+  {
+    "method": "EF v3.1 no LT",
+    "indicator": "water use no LT|user deprivation potential (deprivation-weighted water consumption) no LT",
+    "uuid": "a9a4dcf69a294ff3ad4cde93facded70"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "acidification|accumulated exceedance (AE)",
+    "uuid": "80c7e9387e6f4904904a606e1e4bd3fa"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "6b06b46187e94c8e9584d2ad01856f0e"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "climate change: biogenic|global warming potential (GWP100)",
+    "uuid": "93379c308b564752bd22f4af51645cb5"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "climate change: fossil|global warming potential (GWP100)",
+    "uuid": "db80d8d570bd4e42afaa68142c592ba8"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "climate change: land use and land use change|global warming potential (GWP100)",
+    "uuid": "08f1bca8593b47359533a836b621c0b5"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "ecotoxicity: freshwater|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "4c53923a5555433aa2e7edc0ddfa7c38"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "ecotoxicity: freshwater, inorganics|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "a32e179ea220405c8a0a2e1795efa9bf"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "ecotoxicity: freshwater, organics|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "aeb63e1e66884953aa0d7852326835f0"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "energy resources: non-renewable|abiotic depletion potential (ADP): fossil fuels",
+    "uuid": "fa7e86fe2a674e649424c30e6f0b9f56"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "eutrophication: freshwater|fraction of nutrients reaching freshwater end compartment (P)",
+    "uuid": "2f96f5b1476748afa266033741ce7a7d"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "eutrophication: marine|fraction of nutrients reaching marine end compartment (N)",
+    "uuid": "0609055f5ed340fbb0230a162d4f9e7b"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "eutrophication: terrestrial|accumulated exceedance (AE)",
+    "uuid": "922278495af4414bbcbf9f8922599441"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "0295c8cf5ad649ed8c654e411b798b7a"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: carcinogenic, inorganics|comparative toxic unit for human (CTUh)",
+    "uuid": "35bfb97602f14a99ab820ac36b9b1740"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: carcinogenic, organics|comparative toxic unit for human (CTUh)",
+    "uuid": "e4bde54c793246d5aafa32e6f45e574b"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: non-carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "c56ac0a2e5434edc8a1cde65b70a4b31"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: non-carcinogenic, inorganics|comparative toxic unit for human (CTUh)",
+    "uuid": "4a5137d84bde4a469189d34eea5be99d"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "human toxicity: non-carcinogenic, organics|comparative toxic unit for human (CTUh)",
+    "uuid": "dae98d0439904265a9d3e2c051a55934"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "ionising radiation: human health|human exposure efficiency relative to u235",
+    "uuid": "a9e8294856f64e20988088c7eec6f67a"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "land use|soil quality index",
+    "uuid": "0d2e5b84a8f6405692e473508cc1afca"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "material resources: metals/minerals|abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "uuid": "b68a23f686de436c804c52e0c7116657"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "ozone depletion|ozone depletion potential (ODP)",
+    "uuid": "26e91b48ce5f4f91857854959f391c5e"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "particulate matter formation|impact on human health",
+    "uuid": "3df6ea43a0394cf5b0edc81179b9c538"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "photochemical oxidant formation: human health|tropospheric ozone concentration increase",
+    "uuid": "89705f93ca794f0198e29ab885ee63be"
+  },
+  {
+    "method": "EF v3.1",
+    "indicator": "water use|user deprivation potential (deprivation-weighted water consumption)",
+    "uuid": "7e9f1b38a01d40489377dc42c2c4f91a"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "emissions to air no LT|monetary impact value no LT",
+    "uuid": "c30e2c2cf0264b95902df795b0025657"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "emissions to soil no LT|monetary impact value no LT",
+    "uuid": "dc02949320634603aade3bd41aa4f441"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "emissions to water no LT|monetary impact value no LT",
+    "uuid": "c77682255a3f438b8ca8eda62762127a"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "energy resources: non-renewable, fossil no LT|monetary impact value no LT",
+    "uuid": "12faf397dc3c436b98e4ceb48c9db00b"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "land use no LT|monetary impact value no LT",
+    "uuid": "83507c9d673348d398880e999eb18ab4"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "material resources: metals no LT|monetary impact value no LT",
+    "uuid": "aaa5d3ef515a4d72bbc9fd38a9ad18c5"
+  },
+  {
+    "method": "EPS 2020d no LT",
+    "indicator": "total no LT|monetary impact value no LT",
+    "uuid": "7412be2da2404215a31c6711c0a66e3b"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "emissions to air|monetary impact value",
+    "uuid": "6dcfa67f110a4b69a9e0de7d0abce2a2"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "emissions to soil|monetary impact value",
+    "uuid": "f3ff0c581ab04a4da14f9dab94ccb48a"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "emissions to water|monetary impact value",
+    "uuid": "4cda43beb705430aaf7d0de1a9cf5ccd"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "energy resources: non-renewable, fossil|monetary impact value",
+    "uuid": "e22909b1751249e3b8b2032806e4a207"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "land use|monetary impact value",
+    "uuid": "4f78bdedbf2c4008bed0d3b5d7511ee6"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "material resources: metals|monetary impact value",
+    "uuid": "f6152e08fffa4260911d5c17b8b60c04"
+  },
+  {
+    "method": "EPS 2020d",
+    "indicator": "total|monetary impact value",
+    "uuid": "16c4fff5da6946e9a9af3c383677c8a5"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "climate change|climate change",
+    "uuid": "5ce3a6b3c282411ba5c268213bcb6ece"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "climate change|total",
+    "uuid": "aa2cf53e0e064f16a2dbe9aa037456ae"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "ecosystem quality|aquatic ecotoxicity",
+    "uuid": "db77aa0b2a414195a69f974afc5e88ef"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "ecosystem quality|land occupation",
+    "uuid": "0973d20690c046568bc1c703b1b5a435"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "ecosystem quality|terrestrial acidification & nutrification",
+    "uuid": "467bca9af1ce4f9a9928609e34f490b2"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "ecosystem quality|terrestrial ecotoxicity",
+    "uuid": "ebd8b53cf138462fac1fa50cf70a7f12"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "ecosystem quality|total",
+    "uuid": "9d7f1bfa4b534381822ff651f310a8b4"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|human toxicity",
+    "uuid": "5a636a0989bb4e54a95d0ac480fe9b93"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|ionising radiation",
+    "uuid": "ab2d4f6daa92409680383cc06231debc"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|ozone layer depletion",
+    "uuid": "9c204378dca74f8587665618b5ddc968"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|photochemical oxidation",
+    "uuid": "ea88159cbd2b469bac5bf48cc07862e1"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|respiratory effects (inorganics)",
+    "uuid": "c888b08e006843cfb0b2b35adadb2cfd"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "human health|total",
+    "uuid": "a088c242cd4a4c43b2afd273e273744a"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "resources|mineral extraction",
+    "uuid": "397a5b2ff26d4d76aaba708fe1b424ac"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "resources|non-renewable energy",
+    "uuid": "aa4a6563bbb845ceb2a5d129c811d517"
+  },
+  {
+    "method": "IMPACT 2002+ (Endpoint)",
+    "indicator": "resources|total",
+    "uuid": "c211e1bf255b40ff87d88c45ab678ca4"
+  },
+  {
+    "method": "IMPACT 2002+ (Midpoint)",
+    "indicator": "ecosystem quality|aquatic acidification",
+    "uuid": "c016ebf7d4e64cd9b9d4f21d4045cfb0"
+  },
+  {
+    "method": "IMPACT 2002+ (Midpoint)",
+    "indicator": "ecosystem quality|aquatic eutrophication",
+    "uuid": "18564f647d6a4c83a6e5e4f53da11616"
+  },
+  {
+    "method": "IPCC 2013 no LT",
+    "indicator": "climate change no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "cfe07e00eebb454d909a15eb34c273e5"
+  },
+  {
+    "method": "IPCC 2013 no LT",
+    "indicator": "climate change no LT|global temperature change potential (GTP20) no LT",
+    "uuid": "14b46b3d75bf413ebc72ee9d47f77225"
+  },
+  {
+    "method": "IPCC 2013 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "1df7e5f9cbc046959413252926b2bcdd"
+  },
+  {
+    "method": "IPCC 2013 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP20) no LT",
+    "uuid": "3b67a711ddea46aa9a202efafa59d266"
+  },
+  {
+    "method": "IPCC 2013",
+    "indicator": "climate change|global temperature change potential (GTP100)",
+    "uuid": "a1662496e30e43068b659c64e4baec30"
+  },
+  {
+    "method": "IPCC 2013",
+    "indicator": "climate change|global temperature change potential (GTP20)",
+    "uuid": "7c7497e3440e49d1a4af29532d526723"
+  },
+  {
+    "method": "IPCC 2013",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "5aa740e16e2c40a981b2c967fda6b7ad"
+  },
+  {
+    "method": "IPCC 2013",
+    "indicator": "climate change|global warming potential (GWP20)",
+    "uuid": "3d00e190a7e344e8a5398109710601bb"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "4f5685a4b5d148b8ada029caa71eb072"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change no LT|global temperature change potential (GTP50) no LT",
+    "uuid": "3daf8a084c0243fc8ea61d6a0e00f5ee"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "ed64d345784248da877c5ec24b5b9b2c"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP20) no LT",
+    "uuid": "3f79fcb82bb84604bc0ca2e9598d7f29"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP500) no LT",
+    "uuid": "20587f24943d4a5cb09fb045a4937285"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "7644c19c327345ccba35ba8c177bc926"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic no LT|global temperature change potential (GTP50) no LT",
+    "uuid": "9164ab7d46654e6d8b9b1d6146b1b16f"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic no LT|global warming potential (GWP100) no LT",
+    "uuid": "5fc793e8af8748a8adda1dc5cfdbf3f6"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic no LT|global warming potential (GWP20) no LT",
+    "uuid": "6603da7677a24e1abf32cf502bad7b4f"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic no LT|global warming potential (GWP500) no LT",
+    "uuid": "287ea98aeaf14e0cb026977c17b95bf0"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic, including SLCFs no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "6e3ccfc643214e93b05429afa4d7d7a0"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic, including SLCFs no LT|global warming potential (GWP100) no LT",
+    "uuid": "4e6426766c774e77867d29102214d283"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: biogenic, including SLCFs no LT|global warming potential (GWP20) no LT",
+    "uuid": "3e39ee93594b43119ffbe9d858680ef6"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "9338cf4bc11c4598952139a1f476d462"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil no LT|global temperature change potential (GTP50) no LT",
+    "uuid": "c97bcf4262464429a262ea54366cf5bf"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil no LT|global warming potential (GWP100) no LT",
+    "uuid": "9526ab6a3d2449e7965a927cefe32d26"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil no LT|global warming potential (GWP20) no LT",
+    "uuid": "58b60e45579f43409e87d0bb225a1ba8"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil no LT|global warming potential (GWP500) no LT",
+    "uuid": "0a2df5bea88b42a08bdf000e21f10ac9"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil, including SLCFs no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "e8ab0aced70443a5857cf40de8271b24"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil, including SLCFs no LT|global warming potential (GWP100) no LT",
+    "uuid": "8bccf616d6d045b68d652eb800b9682f"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: fossil, including SLCFs no LT|global warming potential (GWP20) no LT",
+    "uuid": "f02b6105efdc46f2960b98844ad4b38a"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: including SLCFs no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "d5cdc047b21040908c04aeea2ad9ed08"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: including SLCFs no LT|global warming potential (GWP100) no LT",
+    "uuid": "f96fbdf38e634ef5a44c165ec2814547"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: including SLCFs no LT|global warming potential (GWP20) no LT",
+    "uuid": "a5e6c20d6ce647feb42051db390f6c8d"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "37db7220208c4db2b3efaf18bac1cbf0"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use no LT|global temperature change potential (GTP50) no LT",
+    "uuid": "90ae42fc625a49a7ab793333f0b0ccb5"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use no LT|global warming potential (GWP100) no LT",
+    "uuid": "ba71b0148284458686aa8778a37c31e1"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use no LT|global warming potential (GWP20) no LT",
+    "uuid": "075e19cc06da4e7ca3b8253fd7a79ed7"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use no LT|global warming potential (GWP500) no LT",
+    "uuid": "2a320263d0334452a31d605a2d6cebb1"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use, including SLCFs no LT|global temperature change potential (GTP100) no LT",
+    "uuid": "81f458bd1cc346d4ab9f222860754133"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use, including SLCFs no LT|global warming potential (GWP100) no LT",
+    "uuid": "8801c72f54854fd3b77066e9c72f7115"
+  },
+  {
+    "method": "IPCC 2021 no LT",
+    "indicator": "climate change: land use, including SLCFs no LT|global warming potential (GWP20) no LT",
+    "uuid": "e39a53c9fc244096bd738ae40142b7d9"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change|global temperature change potential (GTP100)",
+    "uuid": "2a2d41277fc446929517ffe0d6d28798"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change|global temperature change potential (GTP50)",
+    "uuid": "3790efd27f7344bcb7d6c4a952e4f8c5"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "32ccf71e790947bb8d332106bb79b645"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change|global warming potential (GWP20)",
+    "uuid": "0a0c45bb6ffa4db486ed2c9e1490004a"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change|global warming potential (GWP500)",
+    "uuid": "46bc2ce04cb646af95abfe125157efce"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic|global temperature change potential (GTP100)",
+    "uuid": "1db668b380c0444fa5cb03e8667964ce"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic|global temperature change potential (GTP50)",
+    "uuid": "ee8769a283f2419a958a1a8a50c8279f"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic|global warming potential (GWP100)",
+    "uuid": "e12202783a474f938a70374d2c2cc93c"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic|global warming potential (GWP20)",
+    "uuid": "e47fad8eb4114e5791f984a1890fec3d"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic|global warming potential (GWP500)",
+    "uuid": "af1de8ae4eee47269d3670cdcba6c82d"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic, including SLCFs|global temperature change potential (GTP100)",
+    "uuid": "60dcdb4100044f10877fc298a16ff77d"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic, including SLCFs|global warming potential (GWP100)",
+    "uuid": "066fdf6d64064276a94eeb8d276f8e99"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: biogenic, including SLCFs|global warming potential (GWP20)",
+    "uuid": "ea25803b4cba4ee99750902614d3cf3a"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil|global temperature change potential (GTP100)",
+    "uuid": "6e40a91a560043a89d80e0d9d1717333"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil|global temperature change potential (GTP50)",
+    "uuid": "6601bc113d634c15ba61aaf5243f62cf"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil|global warming potential (GWP100)",
+    "uuid": "049b3107eff042f886c7413687f6bef6"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil|global warming potential (GWP20)",
+    "uuid": "d494d751fcca421c94aa55a278916c73"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil|global warming potential (GWP500)",
+    "uuid": "f0f78ab23a194c2c9669ada896c8265c"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil, including SLCFs|global temperature change potential (GTP100)",
+    "uuid": "6f4f0ad59d0240bf8551a85226abd430"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil, including SLCFs|global warming potential (GWP100)",
+    "uuid": "8466aec61695490e892b34845e13dea2"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: fossil, including SLCFs|global warming potential (GWP20)",
+    "uuid": "eadf39f4cd1a4b93a7fced7c20530422"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: including SLCFs|global temperature change potential (GTP100)",
+    "uuid": "89058c2ca0cb4a3f82ef6de081e1ab00"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: including SLCFs|global warming potential (GWP100)",
+    "uuid": "837285a307b3493a89e4e1d34ff8cbe3"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: including SLCFs|global warming potential (GWP20)",
+    "uuid": "7a79b4615c9c4c44a4f0acfc8a7d18fe"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use|global temperature change potential (GTP100)",
+    "uuid": "9e5db1c71f05472dabb562126d3ae5f1"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use|global temperature change potential (GTP50)",
+    "uuid": "a8a0c0d18c5f49e696922b3312063fb6"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use|global warming potential (GWP100)",
+    "uuid": "6ead523ac7c24722ac949c9c978b2dca"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use|global warming potential (GWP20)",
+    "uuid": "9b6776c6735a4f16872adb7dd60a9efb"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use|global warming potential (GWP500)",
+    "uuid": "0b67494791c740a3bd513f9ff7ade45d"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use, including SLCFs|global temperature change potential (GTP100)",
+    "uuid": "067f05c481b542ba9184cc09c0489aa7"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use, including SLCFs|global warming potential (GWP100)",
+    "uuid": "cf75473ee9114909888c0ebc8dacd0c8"
+  },
+  {
+    "method": "IPCC 2021",
+    "indicator": "climate change: land use, including SLCFs|global warming potential (GWP20)",
+    "uuid": "249b25eb01804bbb899a1b81259f0a47"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|acidification: terrestrial no LT",
+    "uuid": "8006b5663acd4de4a198d3721b06ad9d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|climate change: freshwater ecosystems no LT",
+    "uuid": "5ac517aa85f049aba558bd06d40e3ff5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|climate change: terrestrial ecosystems no LT",
+    "uuid": "439bb41acf194d0e81fc0da7c3287e25"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: freshwater no LT",
+    "uuid": "3007f805cc044bd1b096cc792d4d1cbf"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: marine no LT",
+    "uuid": "7124e19ceaa64b61957499a081e97248"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: terrestrial no LT",
+    "uuid": "cb6c4c24edaf41818ae916de2683b445"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: freshwater no LT",
+    "uuid": "7ee70cbd727a4b0b94cff8ede4da8768"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: marine no LT",
+    "uuid": "c1bc9ce482544303b1fb858ecab66ab4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|land use no LT",
+    "uuid": "72f47e5f027d4e60a3ec87f831edd605"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|photochemical oxidant formation: terrestrial ecosystems no LT",
+    "uuid": "84e055d0fb16431db4931d326dd52942"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|water use: aquatic ecosystems no LT",
+    "uuid": "d34aeb10a9364e018a73d64e95f4ec47"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "ecosystem quality no LT|water use: terrestrial ecosystems no LT",
+    "uuid": "1a2c9f3ec66c409485248e39b556c228"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|climate change: human health no LT",
+    "uuid": "f9296cfcccfd49e98734fd51a0e95306"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|human toxicity: carcinogenic no LT",
+    "uuid": "b46140fe9b2243f9bcc000c5f9732682"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|human toxicity: non-carcinogenic no LT",
+    "uuid": "fbff383aa93f4102a8aff7c0bf91f8b5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|ionising radiation no LT",
+    "uuid": "fca33af7fa1143b185c9775426e6bfe8"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|ozone depletion no LT",
+    "uuid": "30f9478b951d4e5eb55611c8fccdc101"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|particulate matter formation no LT",
+    "uuid": "32a3037e9548455f91aa18cf09c2cf75"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|photochemical oxidant formation: human health no LT",
+    "uuid": "fec436fb9e0f4f55953b184047087a8b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "human health no LT|water use: human health no LT",
+    "uuid": "fb994f024ea246d4bb84bef9dc23b14d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "natural resources no LT|energy resources: non-renewable, fossil no LT",
+    "uuid": "b441287c219045ee8c70754df5f93216"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "natural resources no LT|material resources: metals/minerals no LT",
+    "uuid": "f1fa96d947c84de9ab9067e259c027da"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "total: ecosystem quality no LT|ecosystem quality no LT",
+    "uuid": "ed83d4aea02149aca6b056a3c687d30b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "total: human health no LT|human health no LT",
+    "uuid": "7c6cacb49d5e4f039ac16ea4743e3123"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E) no LT",
+    "indicator": "total: natural resources no LT|natural resources no LT",
+    "uuid": "6f9e0613945b435e9e4ed94ebe2d6dca"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|acidification: terrestrial",
+    "uuid": "030f1b0740ee49febde8ff9bc16855a3"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|climate change: freshwater ecosystems",
+    "uuid": "3733be4ca229466ba0bc159ae0ff0639"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|climate change: terrestrial ecosystems",
+    "uuid": "26bded692c044f01bbc0253279b97777"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|ecotoxicity: freshwater",
+    "uuid": "b84ebeb5f4a64cf09d4cb2aefb4983e5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|ecotoxicity: marine",
+    "uuid": "efcc06a253aa41d69f11dd5a6257fb5d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|ecotoxicity: terrestrial",
+    "uuid": "d9751c3f44be4746b00bc62d5ca5fe1c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|eutrophication: freshwater",
+    "uuid": "9c35a12a163a43bc8ddc434cca828372"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|eutrophication: marine",
+    "uuid": "39aca91cfdd54e7993419d17e624dd5f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|land use",
+    "uuid": "773a7e664e364e13a86d24b394039256"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|photochemical oxidant formation: terrestrial ecosystems",
+    "uuid": "a0cf1b67379d4e4aa1bb61cb0c3fa741"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|water use: aquatic ecosystems",
+    "uuid": "a9622e815e4140d29419372b89ce7a15"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "ecosystem quality|water use: terrestrial ecosystems",
+    "uuid": "8a0152d95efc4e5caacd4ae5671f8edf"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|climate change: human health",
+    "uuid": "bb596b6920554507a4ce1db5b71f50e1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|human toxicity: carcinogenic",
+    "uuid": "adc56bb2787c4f84b0377054abb2d482"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|human toxicity: non-carcinogenic",
+    "uuid": "807d04f492094ae1a496b0bac66f5c8d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|ionising radiation",
+    "uuid": "b8735e6723384a9aab6a9a3dc8bfa80f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|ozone depletion",
+    "uuid": "ab6ccc39f5164355b495b7016df67685"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|particulate matter formation",
+    "uuid": "2ebd2c3c97b347d9810996a1090adf3a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|photochemical oxidant formation: human health",
+    "uuid": "7224a2c5bfc04a93a8f4f3080f08f335"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "human health|water use: human health",
+    "uuid": "79ad4a3580e040eb8333dd222667cead"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "natural resources|energy resources: non-renewable, fossil",
+    "uuid": "78532b8fcd054604bc33cf1383ff59ce"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "natural resources|material resources: metals/minerals",
+    "uuid": "ea3e546b69fd44f2bce0ca2969bf2eb0"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "total: ecosystem quality|ecosystem quality",
+    "uuid": "227a97d2c9be4ec08442f26050853ed7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "total: human health|human health",
+    "uuid": "557bc07415704be3958f005e0e530997"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (E)",
+    "indicator": "total: natural resources|natural resources",
+    "uuid": "23bed871b7ed4bc9b8e06da9dbec1c9a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|acidification: terrestrial no LT",
+    "uuid": "8b949f1f2a1b45708fd9632d80da2d8b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|climate change: freshwater ecosystems no LT",
+    "uuid": "63d64140a2a84c8d802aa5253d4e5bfb"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|climate change: terrestrial ecosystems no LT",
+    "uuid": "565f243d27b7489caa4b85e9abac5c62"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: freshwater no LT",
+    "uuid": "80a0fe62091a4e9fa156faf336f5bbed"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: marine no LT",
+    "uuid": "9b2641edd62a49ea9d5f863d767740ec"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: terrestrial no LT",
+    "uuid": "66cec357fe754689adcbb995339f3521"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: freshwater no LT",
+    "uuid": "552616c4f37f45a88edbb0df624fb9ea"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: marine no LT",
+    "uuid": "d0c543e8e65b435183cbf2d24d189574"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|land use no LT",
+    "uuid": "552e4d928934426a834dd46e6fd49203"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|photochemical oxidant formation: terrestrial ecosystems no LT",
+    "uuid": "af7b1ecd254b4ecd87a9bd4b0f9819e5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|water use: aquatic ecosystems no LT",
+    "uuid": "7cf566d8f7dd45e5a15c10b49baf8c3c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "ecosystem quality no LT|water use: terrestrial ecosystems no LT",
+    "uuid": "aa74eba57cd040f6a91c4d320c09ee2f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|climate change: human health no LT",
+    "uuid": "e91469ad1b514d4b94047dc07d53bd32"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|human toxicity: carcinogenic no LT",
+    "uuid": "20bb99b8f94847e9b3c94d18c057e0ec"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|human toxicity: non-carcinogenic no LT",
+    "uuid": "e4086a500bed423ebcc1b509ca0bf648"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|ionising radiation no LT",
+    "uuid": "aa2ac72be52f46d3a5b017ed6f84281a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|ozone depletion no LT",
+    "uuid": "838692f38a464120a5a497fb13e63c7b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|particulate matter formation no LT",
+    "uuid": "a4cabbc5152c4c2faffb2cf6fb570943"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|photochemical oxidant formation: human health no LT",
+    "uuid": "b9917c5affeb4ddf9b326bf837ba2cf8"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "human health no LT|water use: human health no LT",
+    "uuid": "4e9b5d9de74e43a9b2d72dd0c3013aee"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "natural resources no LT|energy resources: non-renewable, fossil no LT",
+    "uuid": "757debc50f4744c89f5ee8ed156852eb"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "natural resources no LT|material resources: metals/minerals no LT",
+    "uuid": "1e295e91037b464d9f89a25b30fd8e1f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "total: ecosystem quality no LT|ecosystem quality no LT",
+    "uuid": "800b6051e5904ccda7f552c4891f7cdf"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "total: human health no LT|human health no LT",
+    "uuid": "23e215d32b9146159ca335fb0771014f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H) no LT",
+    "indicator": "total: natural resources no LT|natural resources no LT",
+    "uuid": "a679bc5278c840e5a6bd96790e891d66"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|acidification: terrestrial",
+    "uuid": "027f9cb1fe0e4e5dae3d9f73632892e1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|climate change: freshwater ecosystems",
+    "uuid": "e52d2c2305ac4bf6a236061f4f2ae9e4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|climate change: terrestrial ecosystems",
+    "uuid": "b524a04c98c0416fb2f3232f50178dfd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|ecotoxicity: freshwater",
+    "uuid": "bd08429b628543d9b6f11af5169137b9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|ecotoxicity: marine",
+    "uuid": "dce39b7f78554931a96c6df717a344b5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|ecotoxicity: terrestrial",
+    "uuid": "39c93b1adad74602b705d18d625e6975"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|eutrophication: freshwater",
+    "uuid": "bf26836f371c4fdebad81287e870c616"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|eutrophication: marine",
+    "uuid": "bd26aea4869f42d08039a8b1ed1ab8b6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|land use",
+    "uuid": "7fa1065d62b3423388924e87c954e2cd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|photochemical oxidant formation: terrestrial ecosystems",
+    "uuid": "d62b6df05a054e988c7e99abce24c5b6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|water use: aquatic ecosystems",
+    "uuid": "0e33e445d92f4b32b0e5e638ba890754"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "ecosystem quality|water use: terrestrial ecosystems",
+    "uuid": "a16eea20d91a44c1beef9456d821eaf2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|climate change: human health",
+    "uuid": "bf8ba822e766469cbb52c0de4a44246e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|human toxicity: carcinogenic",
+    "uuid": "53516931d433456cbeb37d0b2992f335"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|human toxicity: non-carcinogenic",
+    "uuid": "a78a9d2defa44f1e9a926992bd77152a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|ionising radiation",
+    "uuid": "721559e4e0b84057a10e8af18f00dbe9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|ozone depletion",
+    "uuid": "ef5e1d1476384af1aa480994e3824f32"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|particulate matter formation",
+    "uuid": "a9362ce0d3de48cbb279c31635e1d40e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|photochemical oxidant formation: human health",
+    "uuid": "2af0a35055f144d7ac5db17c5597af53"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "human health|water use: human health",
+    "uuid": "7946d720118a470bb4b7e337a9369827"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "natural resources|energy resources: non-renewable, fossil",
+    "uuid": "88f8aec6c2184a6b8edf8c75f5bc5f7c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "natural resources|material resources: metals/minerals",
+    "uuid": "d747b2b00bb0437799b9679010e3820f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "total: ecosystem quality|ecosystem quality",
+    "uuid": "adc3a4c80c744c90ad91a8ff4b3f8a00"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "total: human health|human health",
+    "uuid": "dd16a389f3354fa38e1c2245bdeaf41b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (H)",
+    "indicator": "total: natural resources|natural resources",
+    "uuid": "8650d41c534e4cc2abb0496d942ddac3"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|acidification: terrestrial no LT",
+    "uuid": "a3c62c96e5bc46ce93cb22cb1efa0fa9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|climate change: freshwater ecosystems no LT",
+    "uuid": "c9aef56562ef4ab7b9b5e6b40114fc07"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|climate change: terrestrial ecosystems no LT",
+    "uuid": "b90be289151f4930b1efa20dd12746e8"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: freshwater no LT",
+    "uuid": "8c55ecdd2c78428f8671ac0f2e1f40a6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: marine no LT",
+    "uuid": "0d90d60936f641d08de77499447054dd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|ecotoxicity: terrestrial no LT",
+    "uuid": "0c178b297ee643018037099ec283f552"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: freshwater no LT",
+    "uuid": "b8d3bb8f12d4483daf4903ba24cf7983"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|eutrophication: marine no LT",
+    "uuid": "cb00ba9f1c3c42a6adc6b3fec4b9ba24"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|land use no LT",
+    "uuid": "9d7cf017d27148a98ab923ee10351bf8"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|photochemical oxidant formation: terrestrial ecosystems no LT",
+    "uuid": "be06a844d8f24acc96764638504ead5f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "ecosystem quality no LT|water use: aquatic ecosystems no LT",
+    "uuid": "e3b0c53d58d243b2b7331b607409ffae"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|climate change: human health no LT",
+    "uuid": "26267a54317846bfabc3057efddfb4f0"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|human toxicity: carcinogenic no LT",
+    "uuid": "ee129a3cab7249eda1f5c060194efec5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|human toxicity: non-carcinogenic no LT",
+    "uuid": "81ab3565a4814323bd28640e5088b18b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|ionising radiation no LT",
+    "uuid": "d7c54edb96f44d94b4120f99e6f2b92b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|ozone depletion no LT",
+    "uuid": "dfc7f8c6dc254dd0a19f440cca4e95db"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|particulate matter formation no LT",
+    "uuid": "cf42e545cc304dc29ea237d305f5e8f5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|photochemical oxidant formation: human health no LT",
+    "uuid": "8c88f2fe5d554ad1bf1df638604feef1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "human health no LT|water use: human health no LT",
+    "uuid": "57507a7789604e79b379e8095b46f170"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "natural resources no LT|energy resources: non-renewable, fossil no LT",
+    "uuid": "c095d326d6ba45678a35d648d8f2f82b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "natural resources no LT|material resources: metals/minerals no LT",
+    "uuid": "fabf8f0888634161ac9567da2352a909"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "total: ecosystem quality no LT|ecosystem quality no LT",
+    "uuid": "8a3dd25ab49d46edb5698ed0fab6caca"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "total: human health no LT|human health no LT",
+    "uuid": "57d4061cc73b4ca5afbb61d4fe1d1490"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I) no LT",
+    "indicator": "total: natural resources no LT|natural resources no LT",
+    "uuid": "d561bee1e76649b484ec13433bbc96da"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|acidification: terrestrial",
+    "uuid": "507d890babf9488a89cec54fee55df6c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|climate change: freshwater ecosystems",
+    "uuid": "0bc96ddc98fe4061833d90dbe7b2cdf4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|climate change: terrestrial ecosystems",
+    "uuid": "a45feaacc75e4b0eb7d1f34993927691"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|ecotoxicity: freshwater",
+    "uuid": "dfc2bdf5788142899cf9537b20576be2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|ecotoxicity: marine",
+    "uuid": "d90144093cf84c7d8668c9fbb557882a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|ecotoxicity: terrestrial",
+    "uuid": "d15f7750fb9d40deac9ded725382b0ea"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|eutrophication: freshwater",
+    "uuid": "4eefa8b483874b0da42ecddc92bc99b7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|eutrophication: marine",
+    "uuid": "36c15c9ea0e047df9e475871d62598af"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|land use",
+    "uuid": "f3af1b03bd784168ae123b1b0c3e63c3"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|photochemical oxidant formation: terrestrial ecosystems",
+    "uuid": "6aeeccc369784505a9bff0ed6add7b08"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "ecosystem quality|water use: aquatic ecosystems",
+    "uuid": "a1f11f11bb344fbe9b14f936a46ce282"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|climate change: human health",
+    "uuid": "22cc7889475b49c49fa3f49ea6ade340"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|human toxicity: carcinogenic",
+    "uuid": "9992330d43aa463381c3e808748b8aa6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|human toxicity: non-carcinogenic",
+    "uuid": "075a404a9b13405c86867568e8046095"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|ionising radiation",
+    "uuid": "c8f69bf102d6476e8448baad7e09eb0d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|ozone depletion",
+    "uuid": "e20735d2e4fe44228e98b7b8cb7313f1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|particulate matter formation",
+    "uuid": "f49205a2d3e14b5fa9860612e8ef9cf4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|photochemical oxidant formation: human health",
+    "uuid": "3e4581a0a74147389b94232df9f6bbb4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "human health|water use: human health",
+    "uuid": "ade918c868214dc6919738409a3b1447"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "natural resources|energy resources: non-renewable, fossil",
+    "uuid": "2b98d65719584bce8c9a08062041aa36"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "natural resources|material resources: metals/minerals",
+    "uuid": "4bddcdd62ea6486caae03b8d24ecc6c2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "total: ecosystem quality|ecosystem quality",
+    "uuid": "0db26e8c01bf4337b45efa1f304a6b44"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "total: human health|human health",
+    "uuid": "47aed3ae3f9f4cf8b1b872d4189fe4ba"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, endpoint (I)",
+    "indicator": "total: natural resources|natural resources",
+    "uuid": "6080be29952049e694325120228cf8f5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "acidification: terrestrial no LT|terrestrial acidification potential (TAP) no LT",
+    "uuid": "f0bd5d2b922c471e8e1914b105e49b1a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "climate change no LT|global warming potential (GWP1000) no LT",
+    "uuid": "f82c1ef4687d4fb78b68fb8118bfe238"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "ecotoxicity: freshwater no LT|freshwater ecotoxicity potential (FETP) no LT",
+    "uuid": "e7edf66ac9a149729ba4d891a777a7c6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "ecotoxicity: marine no LT|marine ecotoxicity potential (METP) no LT",
+    "uuid": "680c1b214b2042adbad6d61493bb812b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "ecotoxicity: terrestrial no LT|terrestrial ecotoxicity potential (TETP) no LT",
+    "uuid": "ce98271076f0406caabff15acd033716"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "energy resources: non-renewable, fossil no LT|fossil fuel potential (FFP) no LT",
+    "uuid": "bea2522c3a3d40bfa4c7723e72f9c07a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "eutrophication: freshwater no LT|freshwater eutrophication potential (FEP) no LT",
+    "uuid": "5e4c0e3bc38d40c58ceb915323166f62"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "eutrophication: marine no LT|marine eutrophication potential (MEP) no LT",
+    "uuid": "49bb6b785b454b1bb0600f90903b05e1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "human toxicity: carcinogenic no LT|human toxicity potential (HTPc) no LT",
+    "uuid": "5c43c890d6754e9e8f547c86616225e6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|human toxicity potential (HTPnc) no LT",
+    "uuid": "8eb693c15bae46e2a3c70611a7c0535a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "ionising radiation no LT|ionising radiation potential (IRP) no LT",
+    "uuid": "bb416330ce2940ad9b4f61a2bf7c7d7e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "land use no LT|agricultural land occupation (LOP) no LT",
+    "uuid": "5bad69c932404d6cbdd6dca36d782450"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "material resources: metals/minerals no LT|surplus ore potential (SOP) no LT",
+    "uuid": "02b8e6ba28814f6995238350c682b11f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODPinfinite) no LT",
+    "uuid": "8ef90d344e984c35b02b693e5c3845cf"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "particulate matter formation no LT|particulate matter formation potential (PMFP) no LT",
+    "uuid": "846aa54c4e4c44678a7cf4f719d9ef1c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "photochemical oxidant formation: human health no LT|photochemical oxidant formation potential: humans (HOFP) no LT",
+    "uuid": "7936de11600d4c43bb524672411db027"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems no LT|photochemical oxidant formation potential: ecosystems (EOFP) no LT",
+    "uuid": "30cdc50db0b44aacbd037da78cdb58fc"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E) no LT",
+    "indicator": "water use no LT|water consumption potential (WCP) no LT",
+    "uuid": "730cced6fa4f4e1cb9067a55546ea8af"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "acidification: terrestrial|terrestrial acidification potential (TAP)",
+    "uuid": "2b59f53fdcc14777aab622acc3067f2d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "climate change|global warming potential (GWP1000)",
+    "uuid": "a368c7ddd1ef4f708601828fa49944ee"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "ecotoxicity: freshwater|freshwater ecotoxicity potential (FETP)",
+    "uuid": "8171dc564e7149adb6a3c4d0abe6458a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "ecotoxicity: marine|marine ecotoxicity potential (METP)",
+    "uuid": "a260517e24a64be68ff1f712f965a6fe"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "ecotoxicity: terrestrial|terrestrial ecotoxicity potential (TETP)",
+    "uuid": "a090ce5c51774a46aa7d109e0e2c5849"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "energy resources: non-renewable, fossil|fossil fuel potential (FFP)",
+    "uuid": "7124aea07d9a49d59ec0048d6365a727"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "eutrophication: freshwater|freshwater eutrophication potential (FEP)",
+    "uuid": "3d96543970bd4cb18d9dd1d32f5adab0"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "eutrophication: marine|marine eutrophication potential (MEP)",
+    "uuid": "6545051fa8f345a99c3ff7b7e2e5e3f4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "human toxicity: carcinogenic|human toxicity potential (HTPc)",
+    "uuid": "97795359439a4ff796bc3c63b7120c38"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "human toxicity: non-carcinogenic|human toxicity potential (HTPnc)",
+    "uuid": "fdc636c6970a4793b775fe9c1e491875"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "ionising radiation|ionising radiation potential (IRP)",
+    "uuid": "d698f9cd3cc64af9953fc5370262020c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "land use|agricultural land occupation (LOP)",
+    "uuid": "830b3965903547f68b55ca0d1c0bb11f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "material resources: metals/minerals|surplus ore potential (SOP)",
+    "uuid": "c0b91d524ed54d50b6e2c1bf066236d7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "ozone depletion|ozone depletion potential (ODPinfinite)",
+    "uuid": "37b19c0569074e4c806512dffb70195f"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "particulate matter formation|particulate matter formation potential (PMFP)",
+    "uuid": "01bceb9d5c6a43148299374a8f419512"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "photochemical oxidant formation: human health|photochemical oxidant formation potential: humans (HOFP)",
+    "uuid": "e938cde79ddf46678a49d7056c777310"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems|photochemical oxidant formation potential: ecosystems (EOFP)",
+    "uuid": "813ca53177d342f19f5d9b73d5173916"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (E)",
+    "indicator": "water use|water consumption potential (WCP)",
+    "uuid": "b480dac0060f470697f4e84fddaec3d0"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "acidification: terrestrial no LT|terrestrial acidification potential (TAP) no LT",
+    "uuid": "c23e3d65da85441c8f0a4d413de77bdd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "climate change no LT|global warming potential (GWP1000) no LT",
+    "uuid": "a09c71c6a8a34493aac8e18fb81517f0"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "ecotoxicity: freshwater no LT|freshwater ecotoxicity potential (FETP) no LT",
+    "uuid": "fbb08f97768a4498a530950c434047fa"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "ecotoxicity: marine no LT|marine ecotoxicity potential (METP) no LT",
+    "uuid": "5e374a9b34f248f5b520ada1ecd14edb"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "ecotoxicity: terrestrial no LT|terrestrial ecotoxicity potential (TETP) no LT",
+    "uuid": "cb01932da12a4429b5944ab1e73717ff"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "energy resources: non-renewable, fossil no LT|fossil fuel potential (FFP) no LT",
+    "uuid": "316c1b9f5ea64bfc8d4f40866819d0d5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "eutrophication: freshwater no LT|freshwater eutrophication potential (FEP) no LT",
+    "uuid": "a944de3c5b9b4ca4867b8382dcd74d97"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "eutrophication: marine no LT|marine eutrophication potential (MEP) no LT",
+    "uuid": "487a1734d87c4600a0c5c1fd8b158e3b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "human toxicity: carcinogenic no LT|human toxicity potential (HTPc) no LT",
+    "uuid": "db94d93dbf1e4f319fef68683cb5c03d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|human toxicity potential (HTPnc) no LT",
+    "uuid": "484870c5122847c5a4835f1706f3303b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "ionising radiation no LT|ionising radiation potential (IRP) no LT",
+    "uuid": "11840acb72414ef7980528549431fdbe"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "land use no LT|agricultural land occupation (LOP) no LT",
+    "uuid": "1d68058d76ff4422b3edd214df85e802"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "material resources: metals/minerals no LT|surplus ore potential (SOP) no LT",
+    "uuid": "89a48b4b4fef4ac0b836ea7a8db53516"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODPinfinite) no LT",
+    "uuid": "c1c2c668656d48699616b769579430bc"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "particulate matter formation no LT|particulate matter formation potential (PMFP) no LT",
+    "uuid": "a2e1fa2be96d4b138c6b3aa389f41ce5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "photochemical oxidant formation: human health no LT|photochemical oxidant formation potential: humans (HOFP) no LT",
+    "uuid": "a55c03a290584a979aafa1189fcfa85c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems no LT|photochemical oxidant formation potential: ecosystems (EOFP) no LT",
+    "uuid": "73593898c523487fb25a8e1881168d05"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "water use no LT|water consumption potential (WCP) no LT",
+    "uuid": "77f4d34e5bd54036bb34819b5560cd86"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "acidification: terrestrial|terrestrial acidification potential (TAP)",
+    "uuid": "1814617b032c4e619a6a92a02f99999a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "climate change|global warming potential (GWP1000)",
+    "uuid": "4e758251da9b498b9d9312cf37910260"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "ecotoxicity: freshwater|freshwater ecotoxicity potential (FETP)",
+    "uuid": "6d4c34f6b75c408f800f756199d5c79e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "ecotoxicity: marine|marine ecotoxicity potential (METP)",
+    "uuid": "e6f396e997b74a468dd7641bd22cf4da"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "ecotoxicity: terrestrial|terrestrial ecotoxicity potential (TETP)",
+    "uuid": "9774b79ba7084cfdb57257acdeb9072c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "energy resources: non-renewable, fossil|fossil fuel potential (FFP)",
+    "uuid": "a812195e94434609b4a264fdfcb651cd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "eutrophication: freshwater|freshwater eutrophication potential (FEP)",
+    "uuid": "19811ecf76904ef081f8f8f0f74752b7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "eutrophication: marine|marine eutrophication potential (MEP)",
+    "uuid": "95fa4fb18f5147b899247befaa54c7a5"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "human toxicity: carcinogenic|human toxicity potential (HTPc)",
+    "uuid": "7560cb4cab1445e295186e654aeb5b7a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "human toxicity: non-carcinogenic|human toxicity potential (HTPnc)",
+    "uuid": "23e4b695412d40cc870b50b280df7553"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "ionising radiation|ionising radiation potential (IRP)",
+    "uuid": "29389eed13f845d1bd9ae9baf4122d02"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "land use|agricultural land occupation (LOP)",
+    "uuid": "617f605fd92d44dc840faec2eb7b1b1c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "material resources: metals/minerals|surplus ore potential (SOP)",
+    "uuid": "299f1a739d4647129676671892e283bc"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "ozone depletion|ozone depletion potential (ODPinfinite)",
+    "uuid": "d2b9e1a8d4f14cf18b29374aede52545"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "particulate matter formation|particulate matter formation potential (PMFP)",
+    "uuid": "fbef89656c34428090a63bbd6e39b52b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "photochemical oxidant formation: human health|photochemical oxidant formation potential: humans (HOFP)",
+    "uuid": "f6a994f4d27244a98c143492bd8dd4e4"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems|photochemical oxidant formation potential: ecosystems (EOFP)",
+    "uuid": "49a65f01edc741b58dfdafae47a69349"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "water use|water consumption potential (WCP)",
+    "uuid": "d5f37b15fc3a4000bd37466f934590d2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "acidification: terrestrial no LT|terrestrial acidification potential (TAP) no LT",
+    "uuid": "0d3c4adc5fd946499d2d1e1411e376b9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "climate change no LT|global warming potential (GWP1000) no LT",
+    "uuid": "32ae4ef4e5d042a68b01edbfb208b0c7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "ecotoxicity: freshwater no LT|freshwater ecotoxicity potential (FETP) no LT",
+    "uuid": "da8cd0239eeb490881f31374a5fe755d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "ecotoxicity: marine no LT|marine ecotoxicity potential (METP) no LT",
+    "uuid": "40db2ffb7ebe4ff1af24b3867edfc68e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "ecotoxicity: terrestrial no LT|terrestrial ecotoxicity potential (TETP) no LT",
+    "uuid": "fd01800ee62545b2b7417e5d5e261de6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "energy resources: non-renewable, fossil no LT|fossil fuel potential (FFP) no LT",
+    "uuid": "42ee757cca494febb8d2f77c2f3121e9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "eutrophication: freshwater no LT|freshwater eutrophication potential (FEP) no LT",
+    "uuid": "8fdd8da15977434f877b7997f4a62fb7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "eutrophication: marine no LT|marine eutrophication potential (MEP) no LT",
+    "uuid": "73c08b8cea2344e09ab654d17f46b225"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "human toxicity: carcinogenic no LT|human toxicity potential (HTPc) no LT",
+    "uuid": "045f6d9781504d5fb20d3224cc7ed58d"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|human toxicity potential (HTPnc) no LT",
+    "uuid": "a2676b78080a418ca441c174fa38a2b2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "ionising radiation no LT|ionising radiation potential (IRP) no LT",
+    "uuid": "5eb87e3a730243eeb4305d808bdb3860"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "land use no LT|agricultural land occupation (LOP) no LT",
+    "uuid": "d5eb852fd6714a68a247368f0157de98"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "material resources: metals/minerals no LT|surplus ore potential (SOP) no LT",
+    "uuid": "fc296c9398864601a9162f265855775a"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODPinfinite) no LT",
+    "uuid": "99b3007986d04685b47e1717b0710c19"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "particulate matter formation no LT|particulate matter formation potential (PMFP) no LT",
+    "uuid": "6d4d6aaa1f074807b551c9ca787081e8"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "photochemical oxidant formation: human health no LT|photochemical oxidant formation potential: humans (HOFP) no LT",
+    "uuid": "48b2e9789d654c88be50cbab3c1615ce"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems no LT|photochemical oxidant formation potential: ecosystems (EOFP) no LT",
+    "uuid": "049b809eed094cec85fee6879fb4f4c6"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "water use no LT|water consumption potential (WCP) no LT",
+    "uuid": "de9c4b7473d643c8a0c9eff8d4913e02"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "acidification: terrestrial|terrestrial acidification potential (TAP)",
+    "uuid": "552574594f544c3b858e37df1b08c9fe"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "climate change|global warming potential (GWP1000)",
+    "uuid": "559c414268844c6d8827bce3d0decea2"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "ecotoxicity: freshwater|freshwater ecotoxicity potential (FETP)",
+    "uuid": "8be79b6a13fa45c8801571d8b5a2d96c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "ecotoxicity: marine|marine ecotoxicity potential (METP)",
+    "uuid": "8c93442a8f8046d4a8a6075e0a5604d3"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "ecotoxicity: terrestrial|terrestrial ecotoxicity potential (TETP)",
+    "uuid": "4becacb830b14e11a477e0f3d067cbd9"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "energy resources: non-renewable, fossil|fossil fuel potential (FFP)",
+    "uuid": "7b8c27d1b02a4992a85e8d361de438da"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "eutrophication: freshwater|freshwater eutrophication potential (FEP)",
+    "uuid": "c12c220bed5f46bbb18c59a0c5aa7727"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "eutrophication: marine|marine eutrophication potential (MEP)",
+    "uuid": "d14ab2a9c98a432ca7d13273b666ae24"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "human toxicity: carcinogenic|human toxicity potential (HTPc)",
+    "uuid": "92a0f1c97b7240a4ad7a55f558b6c8e1"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "human toxicity: non-carcinogenic|human toxicity potential (HTPnc)",
+    "uuid": "699226a9d06b456eb0768ae7c34d7a06"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "ionising radiation|ionising radiation potential (IRP)",
+    "uuid": "095c61daedfb496e84d2d9c90645b99b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "land use|agricultural land occupation (LOP)",
+    "uuid": "0eedcd7903ad427d9c9fdb56be328e93"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "material resources: metals/minerals|surplus ore potential (SOP)",
+    "uuid": "c1464c764f354aaab91dc73f275d1c26"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "ozone depletion|ozone depletion potential (ODPinfinite)",
+    "uuid": "7d43a170705f4c08944a475bd9ff971e"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "particulate matter formation|particulate matter formation potential (PMFP)",
+    "uuid": "038302d19b5b4dd6b1ca84bb6d5aac3c"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "photochemical oxidant formation: human health|photochemical oxidant formation potential: humans (HOFP)",
+    "uuid": "e0a079a996bc4a5a862ab801b55b3b75"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "photochemical oxidant formation: terrestrial ecosystems|photochemical oxidant formation potential: ecosystems (EOFP)",
+    "uuid": "f162f992745c4ae5b2abd676dcf9dfbe"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "water use|water consumption potential (WCP)",
+    "uuid": "bec5a7b9ce07449bb36f6e3926f901de"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|carbon monoxide",
+    "uuid": "2f38959e481f4bca81394b11dd1fd163"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|lead",
+    "uuid": "71f3fc9d967d405e9de99044fd77bdb6"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|methane",
+    "uuid": "ec10a4245f6e40029b0e8f68bf984a6a"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|N2O",
+    "uuid": "af21c858f7e24527839f49a78addf590"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|particulates",
+    "uuid": "e585a48b6d144b1a89a5e2a7d0bd988b"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|particulates >10 um",
+    "uuid": "1691769d8dfb4f24818a5649dcb0364d"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|particulates, >2.5 um and <10",
+    "uuid": "3dd732841e6d40ddbccce478e75ca11e"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air|zinc",
+    "uuid": "28c673f4c8b14c6b927ea404c6f4e280"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air, radioactive|actinides",
+    "uuid": "39dfe58f02914253a71a748308ba9e4f"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air, radioactive|aerosole",
+    "uuid": "5592c469a67346b1b2914dc9439d69ca"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air, radioactive|noble gas",
+    "uuid": "63427c4271c24e24a7ebd5fea9911fd9"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "air, radioactive|radon (+ radium)",
+    "uuid": "03a2c126c4ec4c93aa21a6d8f130812b"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "resource|carbon, biogenic, fixed",
+    "uuid": "75cf1fae81f64c129cf53fc7ecf34cb3"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "resource|water",
+    "uuid": "8cc62b58e6f1457087ee0e22c10210c1"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "total|heat, waste",
+    "uuid": "6ca99a98d80f4d72a8346d107a9f82f2"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "total|oils, unspecified",
+    "uuid": "1a88e15f2d43469cba32f77be782e52f"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "water, radioactive|actinides",
+    "uuid": "b3db3e38c1f244bf86963ed561e34fd7"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "water, radioactive|nuclides",
+    "uuid": "b5bfbe5b168e4577af065fa91374506a"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "water, radioactive|radium",
+    "uuid": "d1c14a5ccbec4752820b5dd0bee11735"
+  },
+  {
+    "method": "selected LCI results, additional",
+    "indicator": "water, radioactive|tritium",
+    "uuid": "dcd73c33be94461f8c656c3c3a5dd267"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "air|CO2, fossil",
+    "uuid": "5620c0d96c9f4a57a4d048ac59b5ab2c"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "air|nitrogen oxides",
+    "uuid": "966a37f9689947a8b862e31346a71752"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "air|NMVOC",
+    "uuid": "88db0a3551594b898e8e8efa95c787cd"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "air|particulates, < 2.5 um",
+    "uuid": "06ab6ffc5b6743429d2b2fe009e96616"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "air|sulphur dioxide",
+    "uuid": "5855818ab8434531b46692d90e4eb642"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "resource|land occupation",
+    "uuid": "55c3c8b0a96c46039b644e2162ac1ab9"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "soil|cadmium",
+    "uuid": "e1db534b02a142619568636482675f65"
+  },
+  {
+    "method": "selected LCI results",
+    "indicator": "water|BOD",
+    "uuid": "258628c86cac4293873f73918444ce1b"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "acidification no LT|acidification potential (AP) no LT",
+    "uuid": "7c7f4f4b67a44625b34ce3d7102f588f"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "1f0478742dbc4dc794625dcc0baefaa9"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "ecotoxicity: freshwater no LT|ecotoxicity: freshwater no LT",
+    "uuid": "ab413adf5d694140935f23bb63019188"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "eutrophication no LT|eutrophication potential no LT",
+    "uuid": "5e07e4a49a64480485fa3ce485298243"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "human toxicity: carcinogenic no LT|human toxicity: carcinogenic no LT",
+    "uuid": "ee590a7a92034e3da76f7ecacc9e9293"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "human toxicity: non-carcinogenic no LT|human toxicity: non-carcinogenic no LT",
+    "uuid": "a64221b043da413aa51d06cec800e597"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "ozone depletion no LT|ozone depletion potential (ODP) no LT",
+    "uuid": "ddcbc69252d244da8c4525bbd450970c"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "particulate matter formation no LT|particulate matter formation potential (PMFP) no LT",
+    "uuid": "9e53bdb452f744f48051118e1d31fdd4"
+  },
+  {
+    "method": "TRACI v2.1 no LT",
+    "indicator": "photochemical oxidant formation no LT|maximum incremental reactivity (MIR) no LT",
+    "uuid": "08863b584a6949a3ae68c99203636b8e"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "acidification|acidification potential (AP)",
+    "uuid": "fab6c44982834d44b17ff3ecdc1d0455"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "6907f3258c954c2ab70972a2b58041d9"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "ecotoxicity: freshwater|ecotoxicity: freshwater",
+    "uuid": "11d0625c1a364fecae4596832f7fb105"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "eutrophication|eutrophication potential",
+    "uuid": "d85f62cf4d874c1da69baba5dd43afc7"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "human toxicity: carcinogenic|human toxicity: carcinogenic",
+    "uuid": "0762aa67963e43f8b7dd79444a2dad1e"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "human toxicity: non-carcinogenic|human toxicity: non-carcinogenic",
+    "uuid": "e05b35bca87c4632985a00efccbf9efe"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "ozone depletion|ozone depletion potential (ODP)",
+    "uuid": "e6464d99811140d2a411b50fb03e5dd8"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "particulate matter formation|particulate matter formation potential (PMFP)",
+    "uuid": "931770e0b10c42909e6595b7cad5795f"
+  },
+  {
+    "method": "TRACI v2.1",
+    "indicator": "photochemical oxidant formation|maximum incremental reactivity (MIR)",
+    "uuid": "e5bf41d2956c425c9917df82bacf28f5"
+  },
+  {
+    "method": "USEtox no LT",
+    "indicator": "ecotoxicity no LT|total no LT",
+    "uuid": "20619333fed042c9ab3ccf56ca803341"
+  },
+  {
+    "method": "USEtox no LT",
+    "indicator": "human toxicity no LT|carcinogenic no LT",
+    "uuid": "fb6dc7a30eed4bce93cf6c8b3dc8d9de"
+  },
+  {
+    "method": "USEtox no LT",
+    "indicator": "human toxicity no LT|non-carcinogenic no LT",
+    "uuid": "df283880726d426e84f9f1b89a5fddc9"
+  },
+  {
+    "method": "USEtox no LT",
+    "indicator": "human toxicity no LT|total no LT",
+    "uuid": "3c5c872ed4db4cbf804c5ee6a3ee29bc"
+  },
+  {
+    "method": "USEtox",
+    "indicator": "ecotoxicity|total",
+    "uuid": "ae2c8e55f25b402b981c1b9847501ea7"
+  },
+  {
+    "method": "USEtox",
+    "indicator": "human toxicity|carcinogenic",
+    "uuid": "744a126e3d0b488ebf57e67e6d365012"
+  },
+  {
+    "method": "USEtox",
+    "indicator": "human toxicity|non-carcinogenic",
+    "uuid": "1d3752492eda4bddbea3ec9242c383b0"
+  },
+  {
+    "method": "USEtox",
+    "indicator": "human toxicity|total",
+    "uuid": "947f5557185a42a0acff30f21a55912a"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "acidification|accumulated exceedance (AE)",
+    "uuid": "cf8e7352b3fd434f9168d186380ec8ca"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "bbd9429b8ac64546ad5ed994ebc2aba0"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "climate change: biogenic|global warming potential (GWP100)",
+    "uuid": "9e68423c731d43d3a97d7260bfaa571e"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "climate change: fossil|global warming potential (GWP100)",
+    "uuid": "e454a0f518d746eca7b3b96418a260fe"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "climate change: land use and land use change|global warming potential (GWP100)",
+    "uuid": "69bec4550aa5487481a50bdbeb2e887d"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "ecotoxicity: freshwater|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "2f204974c3c04ea6b90fe14ba98d19b7"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "energy resources: non-renewable|abiotic depletion potential (ADP): fossil fuels",
+    "uuid": "2f3d44882d85431e9d31a6a70aa47aeb"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "eutrophication: freshwater|fraction of nutrients reaching freshwater end compartment (P)",
+    "uuid": "4b17f83d0d0d4ad7a97a9b5d275c0188"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "eutrophication: marine|fraction of nutrients reaching marine end compartment (N)",
+    "uuid": "df98abd90f164e42a1eda8555a7bedb9"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "eutrophication: terrestrial|accumulated exceedance (AE)",
+    "uuid": "5072d4316ecd489db627ad8ab123acdc"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "human toxicity: carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "8e726676efee42f6b3e9b740d1127f0c"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "human toxicity: non-carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "7d7ab5db0711499fa4bbea4cabbc1cef"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "ionising radiation: human health|human exposure efficiency relative to u235",
+    "uuid": "cc5289477d764fd28a9441d3d7ee0f40"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "land use|soil quality index",
+    "uuid": "97605d269b5a445392209256e3c7fccf"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "material resources: metals/minerals|abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "uuid": "0ec3d7c9ecc849ea974c68eb7d97eed5"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "ozone depletion|ozone depletion potential (ODP)",
+    "uuid": "78a247817e184c59badf5e9bc92a5a0a"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "particulate matter formation|impact on human health",
+    "uuid": "92a3dd4634d94650960a7b04ab445914"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "photochemical oxidant formation: human health|tropospheric ozone concentration increase",
+    "uuid": "da74c92a20824051a1e3a772e7f62268"
+  },
+  {
+    "method": "EF v3.0 EN15804",
+    "indicator": "water use|user deprivation potential (deprivation-weighted water consumption)",
+    "uuid": "673b9058420745c1b29b69bc7e48fbe5"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "acidification|accumulated exceedance (AE)",
+    "uuid": "46a688a6b1694d87bcfccd7f351984b4"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "44fb526850bb4468b250d42b53d12282"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "climate change: biogenic|global warming potential (GWP100)",
+    "uuid": "176081f0712e4e8b90606e8084e18f4c"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "climate change: fossil|global warming potential (GWP100)",
+    "uuid": "38f0de90b4d7401eaf2271cbdb4c732f"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "climate change: land use and land use change|global warming potential (GWP100)",
+    "uuid": "efe4d0ab03ba43229a3e683c76015eda"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "ecotoxicity: freshwater|comparative toxic unit for ecosystems (CTUe)",
+    "uuid": "f47f7a578a874bfca19bc08b075feaa5"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "energy resources: non-renewable|abiotic depletion potential (ADP): fossil fuels",
+    "uuid": "4233fe2dfc1d404692da6bacea4ca4ef"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "eutrophication: freshwater|fraction of nutrients reaching freshwater end compartment (P)",
+    "uuid": "54747d86587f4054a30be8361111dfe3"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "eutrophication: marine|fraction of nutrients reaching marine end compartment (N)",
+    "uuid": "22edbbd6f41c4e28bc93059d429a66da"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "eutrophication: terrestrial|accumulated exceedance (AE)",
+    "uuid": "45f76ca239e040cbaf6260aa7f073641"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "human toxicity: carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "286c6e5685384b1ea145d00afb015083"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "human toxicity: non-carcinogenic|comparative toxic unit for human (CTUh)",
+    "uuid": "c7fcc4da449c4623ba51def67a667f66"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "ionising radiation: human health|human exposure efficiency relative to u235",
+    "uuid": "7ae5b46bd0b746be9203618e820ecc65"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "land use|soil quality index",
+    "uuid": "94ac178331d946a58eefd6a9de1e8116"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "material resources: metals/minerals|abiotic depletion potential (ADP): elements (ultimate reserves)",
+    "uuid": "f31c631c27b942ddb77869adbc19a752"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "ozone depletion|ozone depletion potential (ODP)",
+    "uuid": "6f117533088841fabffd6f90e4b21a10"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "particulate matter formation|impact on human health",
+    "uuid": "1d59cf20359a4704a6684602d1f82400"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "photochemical oxidant formation: human health|tropospheric ozone concentration increase",
+    "uuid": "b812b9e1090b465cb5f2070e56a65d24"
+  },
+  {
+    "method": "EF v3.1 EN15804",
+    "indicator": "water use|user deprivation potential (deprivation-weighted water consumption)",
+    "uuid": "433d90a0a1ad4e85866b392293350566"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|exported energy - electricity",
+    "uuid": "77bd3a957e7e4b28965649bf33ab52c8"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|exported energy - heat",
+    "uuid": "422baa231da441d18eaad81016fbe45e"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|hazardous waste disposed",
+    "uuid": "f0e5452b3ad84267b2b0af8dc6a89bd4"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|high-level radioactive waste disposed",
+    "uuid": "7b3c049eb876491d8b18122ada2e15a2"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|intermediate and low-level radioactive waste disposed",
+    "uuid": "d1edd18ea415412b945263317861037a"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|materials for energy recovery",
+    "uuid": "bc34cc71895640e994254709110afa69"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|materials for recycling",
+    "uuid": "50a67075faec49c4b3c024f8698d0d32"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|non-hazardous waste disposed",
+    "uuid": "e350b4936682473fa8fc03ea95e7d6da"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|recovered energy",
+    "uuid": "260cd16ddb284e75a5c96a1d569994d1"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|use of net fresh water",
+    "uuid": "1b42fb922f7a4862a3ca88d0ce8ad50d"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|use of renewable secondary fuels",
+    "uuid": "8a87cf90118e4df3be30f21d1f563d0c"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|use of secondary material",
+    "uuid": "790d8f93d9b54219bfbcd78fd9ad032f"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|Cumulative Energy Demand - renewable energy resources",
+    "uuid": "baa3e87232124e8b8d02c55c4bbe152b"
+  },
+  {
+    "method": "EN15804",
+    "indicator": "inventory indicators ISO21930|Cumulative Energy Demand - non-renewable energy resources",
+    "uuid": "5ecb89d132fa45dcac3d36507a9a8a4d"
+  }
+]
