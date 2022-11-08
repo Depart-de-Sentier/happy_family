@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "name": "ecoinvent-3.7",
   "description": "Elementary flow list as used in release ecoinvent-3.7",
-  "id": "fea0e942526f48e6b4a5813029dbea21",
+  "id": "09cace09cee94f25aed047289dbbdae5",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
@@ -10,7 +10,7 @@
       "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
-  "created": "2022-11-07T16:58:47.641742Z",
+  "created": "2022-11-08T06:44:58.976066Z",
   "resources": [
     {
       "path": "ecoinvent-3.7.csv",
@@ -58,7 +58,7 @@
             "separated": true
           },
           {
-            "name": "FlowUUID",
+            "name": "Flow UUID",
             "type": "string"
           },
           {
