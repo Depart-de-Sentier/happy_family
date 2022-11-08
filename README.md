@@ -34,6 +34,8 @@ Conditions for success:
 * Participation in the registry
  
 ## LCIA data
+
+**See https://github.com/Depart-de-Sentier/happy_family/blob/main/LCIA/README.md for a specific proposal and working example.**
  
 We have LCIA XML formats in ecospold 1 (dead and buried), SimaPro CSV, olca-schema, ILCD, [lciafmt](https://github.com/USEPA/LCIAformatter), and the UNEP-SETAC [recommendation for regionalized LCIA](https://github.com/cmutel/regionalized-lcia-data-standard).
  
@@ -47,11 +49,7 @@ The CSV-based approaches (lciafmt and UNEP) are much easier to work with; there 
 * It uses the `/` character for separating strings, though this can appear in elementary flow names and contexts, and therefore requires escaping (not trivial for all users). A better alternative is to specify the separation character in the metadata, and to choose a character or character group which doesn't appear in the data.
 * It doesn't have a proper [implementation of regionalization](https://link.springer.com/article/10.1007/s11367-018-1539-4).
 * It assumes the use of [one elementary flow mapping list](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List).
- 
-Proposal:
- 
-Merge the lciafmt and UNEP formats to include `datapackage.json`, maps of regionalized CFs, and unambiguous identification of elementary flow nomenclatures (based on proposal 1).
- 
+  
 Conditions for success:
  
 * Buy in from US EPA and ecoinvent. This would be enough to push the LCIA community (IMHO).
@@ -80,8 +78,8 @@ This proposal is the least developed, but perhaps the most pressing, as ecoinven
  
 We need:
  
-a. A `datapackage.json` file, or similar system for such metadata, sorry to repeat myself but licenses matter...
-b. Examples of how to actually use these mappings in several programming languages
-c. A plan for how such mappings can be maintained. I guess most of us don't think the development process is a reasonable candidate for maintenance... Tomas Navarrete and I built an alternative workflow here based on templates for crowd sourcing combined with GitHub actions: https://github.com/brightway-lca/simapro_ecoinvent_elementary_flows
+* A `datapackage.json` file, or similar system for such metadata, sorry to repeat myself but licenses matter...
+* Examples of how to actually use these mappings in several programming languages
+* A plan for how such mappings can be maintained. I guess most of us don't think the development process is a reasonable candidate for maintenance... Tomas Navarrete and I built an alternative workflow here based on templates for crowd sourcing combined with GitHub actions: https://github.com/brightway-lca/simapro_ecoinvent_elementary_flows
 
 

@@ -1,8 +1,8 @@
 # LCIA data format
 
-THe proposal is to use the [LCIAformatter](https://github.com/USEPA/LCIAformatter) format, with the following changes:
+The proposal is to use the [LCIAformatter](https://github.com/USEPA/LCIAformatter) format, with the following changes:
 
-* Regionalized CFs should be provided as maps, not in line with site-generic CFs. The detailed standard for the provision of regionalized CFs maps is covered in ().
+* Regionalized CFs should be provided as maps, not in line with site-generic CFs. The detailed standard for the provision of regionalized CFs maps is covered in the [Regionalized LCIA data standard](https://github.com/cmutel/regionalized-lcia-data-standard) repo.
 * Addition of a `datapackage.json` file which provides additional metadata.
 * The use of elementary flows lists other than `fedelemflowlist` is allowed; the elementary flow lists are specified as a metadata attribute.
 * The use of separator characters other than `/` is allowed and recommended; the separator character, *and the columns it is applicable to*, are specified as metadata attributes.
@@ -39,7 +39,7 @@ The format is a modification of `LCIAformatter`:
 
 ## Metadata JSON file
 
-The `metadata.json` file follows the `tabular-data-package` standard. Here is an example:
+The `metadata.json` file follows the [`tabular-data-package`](https://dataprotocols.org/tabular-data-package/) standard. Here is an example of the main metadata attributes:
 
 ```javascript
 {
@@ -53,7 +53,7 @@ The `metadata.json` file follows the `tabular-data-package` standard. Here is an
 }    
 ```
 
-Here is an example resource:
+There must be at least one resource. Here is an example of a resource metadata section:
 
 ```javascript
     {
@@ -117,3 +117,7 @@ Here is an example resource:
 ### More explicit string separation
 
 The separation character is specified *per resource* in the metadata section, and the *columns which can have separated values* are indicated per column with the attribute `"separated": true`.
+
+## Ecoinvent example data
+
+This directory has a notebook to extract the LCIA implementation for ecoinvent version 3.9, and the output files produced.
