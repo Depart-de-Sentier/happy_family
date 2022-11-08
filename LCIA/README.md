@@ -113,3 +113,7 @@ Here is an example resource:
       }
     }
 ```
+
+### More explicit string separation
+
+The separation character is specified *per resource* in the metadata section, and the *columns which can have separated values* are indicated per column with the attribute `"separated": true`.
