@@ -41,7 +41,7 @@ The format is a modification of `LCIAformatter`:
 
 The `metadata.json` file follows the `tabular-data-package` standard. Here is an example:
 
-```json
+```javascript
 {
   "profile": "tabular-data-package",
   "name": string, # See spec for requirements
@@ -55,7 +55,7 @@ The `metadata.json` file follows the `tabular-data-package` standard. Here is an
 
 Here is an example resource:
 
-```json
+```javascript
     {
       "path": string,
       "profile": "tabular-data-resource",
@@ -112,5 +112,4 @@ Here is an example resource:
         ]
       }
     }
-  ]
 ```
