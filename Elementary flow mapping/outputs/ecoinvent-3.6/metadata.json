@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "name": "ecoinvent-3.6",
   "description": "Elementary flow list as used in release ecoinvent-3.6",
-  "id": "ad88e8d6fcb04a6c90f5b5ce79bcd7db",
+  "id": "d7ff515ae9674d4b946bab0246037092",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
@@ -10,7 +10,7 @@
       "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
-  "created": "2022-11-08T06:44:58.811810Z",
+  "created": "2022-11-08T06:48:06.193183Z",
   "resources": [
     {
       "path": "ecoinvent-3.6.csv",
@@ -24,7 +24,7 @@
             "type": "string"
           },
           {
-            "name": "CASNo",
+            "name": "CAS No",
             "type": "string"
           },
           {
