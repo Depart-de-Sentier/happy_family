@@ -66,13 +66,13 @@
     "uuid": "9e19793dcaae4ab5a204106ffcab8008"
   },
   "EDIP2003": {
-    "version": "2003",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "6d3bfd5420034917b2e764cc4ad874ca"
   },
   "EDIP2003 w/o LT": {
-    "version": "2003",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "ea3ca84b14ba4ad58efd8b38e88851a0"
@@ -168,13 +168,13 @@
     "uuid": "5e2c79092fcf4656b709f21c89f34a89"
   },
   "Ecological Scarcity 2021": {
-    "version": "2021",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "7f001936cb154fff8b4eeb58f504cc3b"
   },
   "Ecological Scarcity 2021 no LT": {
-    "version": "2021",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "af539e6b69a14449a79ede9b1b5957c1"
@@ -186,13 +186,13 @@
     "uuid": "7cafb86a10ca42c5a06e6671935129f9"
   },
   "IMPACT 2002+ (Endpoint)": {
-    "version": "2002+",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "3ba97f6a1fad4269b018ddaac5898711"
   },
   "IMPACT 2002+ (Midpoint)": {
-    "version": "2002+",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "c046b3d16c204055913bd5f0d1c34b34"
@@ -216,25 +216,25 @@
     "uuid": "ced8affc956e4fcaacba7eb508c9dff7"
   },
   "IPCC 2013": {
-    "version": "2013",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "5b5dd46b1f2c4f64920f9c9f94936a89"
   },
   "IPCC 2013 no LT": {
-    "version": "2013",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "f5a38c0f83b745a7981b4c921a7cc707"
   },
   "IPCC 2021": {
-    "version": "2021",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "d75d84b3bb4442be9525e86f9d3eaefd"
   },
   "IPCC 2021 no LT": {
-    "version": "2021",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "9e4571a6f92346c184ba9696da0ebf29"
@@ -486,25 +486,25 @@
     "uuid": "b476299320d441e49777f1899d0aeb0b"
   },
   "ecological scarcity 1997 (superseded)": {
-    "version": "1997",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "8726bcabc4fe4e10a9c32c60120e7cd6"
   },
   "ecological scarcity 2006 (superseded)": {
-    "version": "2006",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "7204d6173af74fefb26c61be5c7cdea0"
   },
   "ecological scarcity 2013": {
-    "version": "2013",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "6cd3ded73c384fb49eb39842a32b73b3"
   },
   "ecological scarcity 2013 no LT": {
-    "version": "2013",
+    "version": "1.0",
     "description": "",
     "url": "",
     "uuid": "0aa9a142997346cfadc9b7786eeb033d"
