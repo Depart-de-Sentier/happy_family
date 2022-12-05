@@ -82,4 +82,6 @@ We need:
 * Examples of how to actually use these mappings in several programming languages
 * A plan for how such mappings can be maintained. I guess most of us don't think the development process is a reasonable candidate for maintenance... Tomas Navarrete and I built an alternative workflow here based on templates for crowd sourcing combined with GitHub actions: https://github.com/brightway-lca/simapro_ecoinvent_elementary_flows
 
+This repository also includes a new mapping symbol: ``!``, used in cases where there is no mapping given (e.g. a new database version introduces new flows).
 
+The fundamental premise of the flow mappings is that these files are for mapping flows present in both the `Source` and `Target` lists; but what about flows which are only present in one list? Following the principle that "explicit is better than explicit", we propose to include such missing flows (with empty values in the `Source` or `Target` sections), and use the `MatchCondition` symbol `!`.
