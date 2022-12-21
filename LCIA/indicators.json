@@ -5306,6 +5306,11 @@
   },
   {
     "method": "ReCiPe 2016 v1.03, midpoint (H)",
+    "indicator": "climate change|global warming potential (GWP100)",
+    "uuid": "15e867d41bd54d138cc683e1faeff54b"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H)",
     "indicator": "climate change|global warming potential (GWP1000)",
     "uuid": "4e758251da9b498b9d9312cf37910260"
   },
@@ -5393,6 +5398,11 @@
     "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
     "indicator": "acidification: terrestrial no LT|terrestrial acidification potential (TAP) no LT",
     "uuid": "c23e3d65da85441c8f0a4d413de77bdd"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
+    "indicator": "climate change no LT|global warming potential (GWP100) no LT",
+    "uuid": "e4f6dba8241149f2a22a83137c887ea4"
   },
   {
     "method": "ReCiPe 2016 v1.03, midpoint (H) no LT",
@@ -5491,6 +5501,11 @@
   },
   {
     "method": "ReCiPe 2016 v1.03, midpoint (I)",
+    "indicator": "climate change|global warming potential (GWP20)",
+    "uuid": "9d74f9913a3a4d3b870252af9ab2d1cc"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I)",
     "indicator": "ecotoxicity: freshwater|freshwater ecotoxicity potential (FETP)",
     "uuid": "8be79b6a13fa45c8801571d8b5a2d96c"
   },
@@ -5578,6 +5593,11 @@
     "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
     "indicator": "climate change no LT|global warming potential (GWP1000) no LT",
     "uuid": "32ae4ef4e5d042a68b01edbfb208b0c7"
+  },
+  {
+    "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",
+    "indicator": "climate change no LT|global warming potential (GWP20) no LT",
+    "uuid": "a4c54e89ae744c758fbfa65681884cc6"
   },
   {
     "method": "ReCiPe 2016 v1.03, midpoint (I) no LT",

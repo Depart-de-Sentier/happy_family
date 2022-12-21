@@ -1,0 +1,2480 @@
+{
+  "profile": "tabular-data-package",
+  "name": "ecoinvent-3.9.1-lcia",
+  "description": "Implementation of selected LCIA methods as described in https://v391.ecoquery.ecoinvent.org/File/File?fileName=ecoinvent+3.9.1+(2022)%2c+current%5csupporting+documents%5cecoinvent+3.9.1_LCIA_implementation.7z&hash=877740867&type=Files",
+  "id": "592eae1a83084d368037fd370bbef4f7",
+  "licenses": [
+    {
+      "name": "ecoinvent-eula-2022.05.01",
+      "path": "https://ecoinvent.org/wp-content/uploads/2022/04/ecoinvent_new-db-eula_01_04_2022.pdf",
+      "title": "ecoinvent End User Licence Agreement effect 2022.05.01"
+    }
+  ],
+  "resources": [
+    {
+      "path": "CML_v48_2016.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "CML_v48_2016_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Crustal_Scarcity_Indicator_2020.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Cumulative_Energy_Demand_CED.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Cumulative_Exergy_Demand_CExD.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EDIP_2003.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EDIP_2003_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v30.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v30_EN15804.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v30_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v31.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v31_EN15804.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EF_v31_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EN15804.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EPS_2020d.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "EPS_2020d_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Ecological_Footprint.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Ecological_Scarcity_2021.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Ecological_Scarcity_2021_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "Ecosystem_Damage_Potential.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IMPACT_2002_Endpoint.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IMPACT_2002_Midpoint.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IPCC_2013.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IPCC_2013_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IPCC_2021.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "IPCC_2021_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_E.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_E_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_H.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_H_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_I.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_endpoint_I_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_E.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_E_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_H.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_H_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_I.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "ReCiPe_2016_v103_midpoint_I_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "TRACI_v21.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "TRACI_v21_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "USEtox.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "USEtox_no_LT.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "selected_LCI_results.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "selected_LCI_results_additional.csv",
+      "profile": "tabular-data-resource",
+      "mediatype": "text/csv",
+      "separator": "|",
+      "schema": {
+        "fields": [
+          {
+            "name": "Method",
+            "type": "string"
+          },
+          {
+            "name": "Method UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Indicator UUID",
+            "type": "string"
+          },
+          {
+            "name": "Indicator unit",
+            "type": "string"
+          },
+          {
+            "name": "Flowable",
+            "type": "string"
+          },
+          {
+            "name": "Flow UUID",
+            "type": "string"
+          },
+          {
+            "name": "Context",
+            "type": "string",
+            "separated": true
+          },
+          {
+            "name": "Unit",
+            "type": "string"
+          },
+          {
+            "name": "CAS No",
+            "type": "string"
+          },
+          {
+            "name": "Characterization factor",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "created": "2022-12-21T09:26:27.694389Z"
+}
