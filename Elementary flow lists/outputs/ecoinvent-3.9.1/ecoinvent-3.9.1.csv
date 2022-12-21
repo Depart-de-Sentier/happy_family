@@ -1350,6 +1350,7 @@ Daminozide,0001596-84-5,C6H12N2O3,"4-(2,2-dimethylhydrazinyl)-4-oxobutanoic acid
 Dazomet,0000533-74-4,C5H10N2S2,"3,5-dimethyl-1,3,5-thiadiazinane-2-thione",kg,chemical,,,soil|agricultural,b383d294-1771-5b63-b912-8de9e9e7f1d6,,533-74-4
 Decanoic acid,0000334-48-5,C10H20O2,,kg,chemical,,,water|unspecified,185d4f1e-6d28-551b-8951-672805c4d8e5,,334-48-5|62716-49-8
 Deltamethrin,0052918-63-5,C22H19Br2NO3,,kg,,,,"air|low population density, long-term",340aa83e-9594-5819-9e0e-d149bec71bcf,,
+Deltamethrin,0052918-63-5,C22H19Br2NO3,,kg,,,,air|non-urban air or from high stacks,4813520f-6ce4-4f0d-820b-58c71f809931,,
 Deltamethrin,0052918-63-5,C22H19Br2NO3,,kg,,,,air|unspecified,a3ddf9e1-f658-5efb-b291-47b27643c53f,,
 Deltamethrin,0052918-63-5,C22H19Br2NO3,,kg,chemical,,,soil|agricultural,282973e4-3c2d-4a9c-a3f2-d39a5b36aa76,,52918-63-5
 Deltamethrin,0052918-63-5,C22H19Br2NO3,,kg,,,,water|ground-,110975e5-1bcd-51ab-9b87-246cfb417c55,,
@@ -1435,6 +1436,7 @@ Diflubenzuron,0035367-38-5,C14H9ClF2N2O2,"N-[(4-chlorophenyl)carbamoyl]-2,6-difl
 Diflubenzuron,0035367-38-5,C14H9ClF2N2O2,"benzamide, n-  (4-chlorophenyl)amino carbonyl -2,6-difluoro-|N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide",kg,,,,water|unspecified,f329d7f7-0880-5080-89b9-c1570e595bfa,,
 Diflufenican,0083164-33-4,C19H11F5N2O2,"2',4'-difluoro-2-(alpha,alpha,alpha-trifluoro-m-tolyloxy)nicotinanilide|N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide",kg,chemical,,,soil|agricultural,016da38a-40a6-483c-b328-9782dc46e802,,83164-33-4
 Diflufenzopyr,0109293-97-2,C15H12F2N4O3,,kg,,,,"air|low population density, long-term",4bfc45db-d18e-58bf-a0bb-997cf655a37a,,
+Diflufenzopyr,0109293-97-2,C15H12F2N4O3,,kg,,,,air|non-urban air or from high stacks,44b12c5e-770c-4a71-8bde-f2504dfee8a8,,
 Diflufenzopyr,0109293-97-2,C15H12F2N4O3,,kg,,,,air|unspecified,29520fb9-bf5b-577d-a398-22e87cf168bc,,
 Diflufenzopyr,0109293-97-2,C15H12F2N4O3,,kg,,,,water|ground-,e35566c1-9b7e-5a5b-8f79-a87b411d5360,,
 Diflufenzopyr-sodium,0109293-98-3,C15H11F2N4NaO3,"sodium 2-{(EZ)-1-[4-(3,5-difluorophenyl)semicarbazono]ethyl}nicotinate|sodium",kg,chemical,,,soil|agricultural,cc667a3d-e88b-42f7-b265-461b7d66837f,,109293-98-3
@@ -1455,6 +1457,7 @@ Dimethenamid-P,0163515-14-8,C12H18ClNO2S,"2-chloro-N-(2,4-dimethylthiophen-3-yl)
 Dimethenamid-P,0163515-14-8,C12H18ClNO2S,"2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",kg,,,,water|surface water,781976b1-82a2-5ae9-b7fc-1ab7282f38f0,,
 Dimethipin,0055290-64-7,C6H10O4S2,"5,6-dimethyl-2,3-dihydro-1,4-dithiine 1,1,4,4-tetraoxide|2,3-Dihydro-5,6-dimethyl-1,4-dithiin 1,1,4,4-tetraoxide",kg,chemical,,,soil|agricultural,08fd6c23-2f15-440a-a366-ebcc2b6b4f3d,,55290-64-7
 Dimethoate,0000060-51-5,C5H12NO3PS2,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate|2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",kg,,,,"air|low population density, long-term",6d1613a4-9af4-5bb3-b159-ac480ee22c7e,,
+Dimethoate,0000060-51-5,C5H12NO3PS2,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate|2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",kg,,,,air|non-urban air or from high stacks,657d244c-3820-48cd-ac10-ebd0c0ee9703,,
 Dimethoate,0000060-51-5,C5H12NO3PS2,"2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide|O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",kg,,,,air|unspecified,f8dacb2c-6b05-5aa1-8fc8-40cda8bfc188,,
 Dimethoate,0000060-51-5,C5H12NO3PS2,"2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide|O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate",kg,chemical,,,soil|agricultural,28f19625-5e6a-4902-8c18-4b519db19d86,,60-51-5
 Dimethoate,0000060-51-5,C5H12NO3PS2,"O,O-dimethyl S-methylcarbamoylmethyl phosphorodithioate|2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide",kg,,,,water|ground-,d49b5e5b-135d-536f-8231-81ab53f28022,,
@@ -1596,7 +1599,8 @@ Ethaboxam,0162650-77-3,C14H16N4OS2,"N-[cyano(thiophen-2-yl)methyl]-4-ethyl-2-(et
 Ethaboxam,0162650-77-3,C14H16N4OS2,"N-[cyano(thiophen-2-yl)methyl]-4-ethyl-2-(ethylamino)-1,3-thiazole-5-carboxamide",kg,,,,air|unspecified,5afe5509-dc66-502a-9d4e-7efd2dcd9bec,,
 Ethaboxam,0162650-77-3,C14H16N4OS2,"N-[cyano(thiophen-2-yl)methyl]-4-ethyl-2-(ethylamino)-1,3-thiazole-5-carboxamide",kg,,,,soil|agricultural,5c101dde-3ca0-5ca7-849a-81301451a34b,,
 Ethaboxam,0162650-77-3,C14H16N4OS2,"N-[cyano(thiophen-2-yl)methyl]-4-ethyl-2-(ethylamino)-1,3-thiazole-5-carboxamide",kg,,,,water|ground-,ed56558d-0a10-516a-9fbd-bfd6fe7a3232,,
-Ethalfluralin,0055283-68-6,C13H14F3N3O4,"Ethalfuralin|N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",kg,,,,"air|low population density, long-term",8f159c78-3969-53c1-ba65-2692d66a5a4b,,
+Ethalfluralin,0055283-68-6,C13H14F3N3O4,"N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline|Ethalfuralin",kg,,,,"air|low population density, long-term",8f159c78-3969-53c1-ba65-2692d66a5a4b,,
+Ethalfluralin,0055283-68-6,C13H14F3N3O4,"N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline|Ethalfuralin",kg,,,,air|non-urban air or from high stacks,cece4e62-9479-4d45-b409-adcefa225d5f,,
 Ethalfluralin,0055283-68-6,C13H14F3N3O4,"Ethalfuralin|N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",kg,,,,air|unspecified,4162d7d1-c07d-5ee3-8da9-b4d5f8691100,,
 Ethalfluralin,0055283-68-6,C13H14F3N3O4,"Ethalfuralin|N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",kg,chemical,,,soil|agricultural,b028ffea-ecff-4f0e-a2b0-a84eb647cdae,,55283-68-6
 Ethalfluralin,0055283-68-6,C13H14F3N3O4,"N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline|Ethalfuralin",kg,,,,water|ground-,a5632d26-8338-5a18-b12b-1b6e085eb7b0,,
@@ -1615,16 +1619,16 @@ Ethane thiol,0000075-08-1,C2H6S,ethanethiol|Ethyl hydrosulfide,kg,chemical,,,air
 "Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",0000811-97-2,C2H2F4,"HFC-134a|R134a|Ethane, 1,1,1,2-tetrafluoro-|1,1,1,2-tetrafluoroethane",kg,chemical,,,air|non-urban air or from high stacks,16fcd4f9-0bb8-4b84-8334-3ffb1a17aa74,,
 "Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",0000811-97-2,C2H2F4,"Ethane, 1,1,1,2-tetrafluoro-|R134a|HFC-134a|1,1,1,2-tetrafluoroethane",kg,chemical,,,air|unspecified,e87f039d-d9ce-4242-ac18-c9284cc80f3d,,
 "Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",0000811-97-2,C2H2F4,"R134a|1,1,1,2-tetrafluoroethane|HFC-134a|Ethane, 1,1,1,2-tetrafluoro-",kg,chemical,,,air|urban air close to ground,fa0c2bee-8dd9-4f8a-8489-b1f3b43de958,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-Trichlorethan|HCFC-140|1,1,1-trichloroethane|Ethane, 1,1,1-trichloro-",kg,chemical,,,"air|low population density, long-term",f8ee4881-a003-4e18-aa2a-d9daf97d76f7,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|1,1,1-trichloroethane|HCFC-140|1,1,1-Trichlorethan",kg,chemical,,,air|lower stratosphere + upper troposphere,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"HCFC-140|1,1,1-Trichlorethan|Ethane, 1,1,1-trichloro-|1,1,1-trichloroethane",kg,chemical,,,air|non-urban air or from high stacks,99585564-bfce-4845-9aaa-2f24b8f26a41,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|HCFC-140|1,1,1-Trichlorethan|1,1,1-trichloroethane",kg,chemical,,,air|unspecified,ce6294f5-2ed7-46ee-a967-33e265e34455,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-Trichlorethan|HCFC-140|1,1,1-trichloroethane|Ethane, 1,1,1-trichloro-",kg,chemical,,,air|urban air close to ground,818cee9e-231c-4b53-8ed2-47a0001802d5,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-trichloroethane|Ethane, 1,1,1-trichloro-|1,1,1-Trichlorethan|HCFC-140",kg,chemical,,,water|ground-,f84a6dac-bc6e-4efc-bdb0-a0f2a0231d0f,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-trichloroethane|1,1,1-Trichlorethan|Ethane, 1,1,1-trichloro-|HCFC-140",kg,chemical,,,"water|ground-, long-term",fc121a47-0538-406f-a335-edd1aac9fae6,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|1,1,1-trichloroethane|HCFC-140|1,1,1-Trichlorethan",kg,chemical,,,"air|low population density, long-term",f8ee4881-a003-4e18-aa2a-d9daf97d76f7,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-trichloroethane|1,1,1-Trichlorethan|HCFC-140|Ethane, 1,1,1-trichloro-",kg,chemical,,,air|lower stratosphere + upper troposphere,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"HCFC-140|Ethane, 1,1,1-trichloro-|1,1,1-Trichlorethan|1,1,1-trichloroethane",kg,chemical,,,air|non-urban air or from high stacks,99585564-bfce-4845-9aaa-2f24b8f26a41,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-Trichlorethan|1,1,1-trichloroethane|HCFC-140|Ethane, 1,1,1-trichloro-",kg,chemical,,,air|unspecified,ce6294f5-2ed7-46ee-a967-33e265e34455,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-Trichlorethan|Ethane, 1,1,1-trichloro-|HCFC-140|1,1,1-trichloroethane",kg,chemical,,,air|urban air close to ground,818cee9e-231c-4b53-8ed2-47a0001802d5,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"HCFC-140|Ethane, 1,1,1-trichloro-|1,1,1-Trichlorethan|1,1,1-trichloroethane",kg,chemical,,,water|ground-,f84a6dac-bc6e-4efc-bdb0-a0f2a0231d0f,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|HCFC-140|1,1,1-Trichlorethan|1,1,1-trichloroethane",kg,chemical,,,"water|ground-, long-term",fc121a47-0538-406f-a335-edd1aac9fae6,,
 "Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"1,1,1-Trichlorethan|1,1,1-trichloroethane|Ethane, 1,1,1-trichloro-|HCFC-140",kg,chemical,,,water|ocean,fad455a8-a20f-4b6e-8192-0bec95252876,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|1,1,1-Trichlorethan|HCFC-140|1,1,1-trichloroethane",kg,chemical,,,water|surface water,9b77be37-3f9d-4ecf-b7b1-86e8390bcf2e,,
-"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|1,1,1-Trichlorethan|1,1,1-trichloroethane|HCFC-140",kg,chemical,,,water|unspecified,c8e5538f-17a1-4f62-aa64-39a91adb5cd3,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"HCFC-140|1,1,1-trichloroethane|1,1,1-Trichlorethan|Ethane, 1,1,1-trichloro-",kg,chemical,,,water|surface water,9b77be37-3f9d-4ecf-b7b1-86e8390bcf2e,,
+"Ethane, 1,1,1-trichloro-, HCFC-140",0000071-55-6,C2H3Cl3,"Ethane, 1,1,1-trichloro-|1,1,1-trichloroethane|HCFC-140|1,1,1-Trichlorethan",kg,chemical,,,water|unspecified,c8e5538f-17a1-4f62-aa64-39a91adb5cd3,,
 "Ethane, 1,1,1-trifluoro-, HFC-143a",0000420-46-2,C2H3F3,"R143a|1,1,1-trifluoroethane|HFC-143a|Ethane, 1,1,1-trifluoro-",kg,chemical,,,"air|low population density, long-term",bf580c6b-1b4d-429d-bed7-1e335920941f,,
 "Ethane, 1,1,1-trifluoro-, HFC-143a",0000420-46-2,C2H3F3,"1,1,1-trifluoroethane|R143a|HFC-143a|Ethane, 1,1,1-trifluoro-",kg,chemical,,,air|lower stratosphere + upper troposphere,5eb2d548-1694-496d-b3bd-a439984fca7d,,
 "Ethane, 1,1,1-trifluoro-, HFC-143a",0000420-46-2,C2H3F3,"1,1,1-trifluoroethane|R143a|Ethane, 1,1,1-trifluoro-|HFC-143a",kg,chemical,,,air|non-urban air or from high stacks,5253e322-7de5-42aa-9167-daf22ff44031,,
@@ -1918,6 +1922,7 @@ Fluthiacet-methyl,0117337-19-6,C15H15ClFN3O3S2,,kg,,,,soil|agricultural,ce0c1856
 Flutolanil,0066332-96-5,C17H16F3NO2,N-(3-(1-methylethoxy)phenyl)-2-(trifluoromethyl)benzamide|N-(3-propan-2-yloxyphenyl)-2-(trifluoromethyl)benzamide,kg,chemical,,,soil|agricultural,df260d38-1369-4524-a83a-bbd8ace56681,,66332-96-5
 Flutriafol,0076674-21-0,C16H13F2N3O,,kg,,,,soil|agricultural,68279b92-1980-537d-b7aa-5d1953439aba,,
 Fluxapyroxad,0907204-31-3,C18H12F5N3O,,kg,,,,"air|low population density, long-term",90d5fd6a-ba11-5471-bd6b-d4ba12b90354,,
+Fluxapyroxad,0907204-31-3,C18H12F5N3O,,kg,,,,air|non-urban air or from high stacks,f216cd2b-2a62-4d06-9efa-af12f0672936,,
 Fluxapyroxad,0907204-31-3,C18H12F5N3O,,kg,,,,air|unspecified,d3dded99-fb96-5f65-b286-ed7b83fb78e2,,
 Fluxapyroxad,0907204-31-3,C18H12F5N3O,,kg,,,,soil|agricultural,f0f42d28-0c71-58a6-a8b6-bdc524561b8b,,
 Fluxapyroxad,0907204-31-3,C18H12F5N3O,,kg,,,,soil|forestry,85e00608-dcad-549e-bcd1-c086e556fdfe,,
@@ -1998,6 +2003,7 @@ Gibberellic acid,0000077-06-5,C19H22O6,,kg,,,,water|unspecified,629fe86c-b836-59
 Glucose,0000050-99-7,C6H12O6,"(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",kg,chemical,,,water|unspecified,c082af51-1644-52fc-b49d-5b6c65eb1865,,2280-44-6|492-62-6|50-99-7|54-17-1|58367-01-4
 Glufosinate,0051276-47-2,C5H12NO4P,glufosinate-ammonium|2-amino-4-[hydroxy(methyl)phosphoryl]butanoic acid,kg,chemical,,,soil|agricultural,b7a0a14a-b0b2-4aeb-923f-5c2ec1251dd5,,51276-47-2|77182-82-2
 Glufosinate ammonium,0077182-82-2,C5H15N2O4P,glufosinate-ammonium|Monoammonium 2-amino-4(hydroxymethylphosphinyl)butanoate|glufosinate ammonium salt,kg,,,,"air|low population density, long-term",8aa28904-c1a5-5634-ac89-d9e6a6f06864,,
+Glufosinate ammonium,0077182-82-2,C5H15N2O4P,Monoammonium 2-amino-4(hydroxymethylphosphinyl)butanoate|glufosinate-ammonium|glufosinate ammonium salt,kg,,,,air|non-urban air or from high stacks,f76e7b4f-5a39-4bda-a91c-35a0ee2d3773,,
 Glufosinate ammonium,0077182-82-2,C5H15N2O4P,glufosinate-ammonium|Monoammonium 2-amino-4(hydroxymethylphosphinyl)butanoate|glufosinate ammonium salt,kg,,,,air|unspecified,fcead97d-e6b1-511e-b833-910533410b3a,,
 Glufosinate ammonium,0077182-82-2,C5H15N2O4P,Monoammonium 2-amino-4(hydroxymethylphosphinyl)butanoate|glufosinate ammonium salt|glufosinate-ammonium,kg,chemical,,,soil|agricultural,52be5a94-fe48-4ec3-b694-44d08262bbad,,77182-82-2
 Glufosinate ammonium,0077182-82-2,C5H15N2O4P,Monoammonium 2-amino-4(hydroxymethylphosphinyl)butanoate|glufosinate ammonium salt|glufosinate-ammonium,kg,,,,water|ground-,9f2356ae-88ba-5222-899f-9532001be831,,
@@ -3649,6 +3655,7 @@ S-Metolachlor,0087392-12-9,C15H22ClNO2,2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2
 S-Metolachlor,0087392-12-9,C15H22ClNO2,2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide,kg,,,,water|surface water,df51c9ec-b2c8-5042-9001-b641aab74498,,
 S-Metolachlor,0087392-12-9,C15H22ClNO2,2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide,kg,,,,water|unspecified,ba196c0d-3024-5b29-b017-88267c7eaf1b,,
 Saflufenacil,0372137-35-4,C17H17ClF4N4O5S,,kg,,,,"air|low population density, long-term",9321e389-757e-5996-b511-4c7b42e67642,,
+Saflufenacil,0372137-35-4,C17H17ClF4N4O5S,,kg,,,,air|non-urban air or from high stacks,50693b95-cae0-419d-a8c1-b5312dc93efb,,
 Saflufenacil,0372137-35-4,C17H17ClF4N4O5S,,kg,,,,air|unspecified,b7280253-7325-550a-8af4-75cd41f3dad7,,
 Saflufenacil,0372137-35-4,C17H17ClF4N4O5S,,kg,,,,soil|agricultural,d6e18bd1-8810-5530-a6e1-280017f7e836,,
 Saflufenacil,0372137-35-4,C17H17ClF4N4O5S,,kg,,,,water|ground-,6c6e1443-4507-5503-911d-68b034ac0334,,
@@ -4356,6 +4363,7 @@ Tralomethrin,0066841-25-6,C22H19Br4NO3,Scout-Xtra,kg,chemical,,,soil|agricultura
 "Transformation, to wetland, inland (non-use)",,,,m2,land,,,natural resource|land,d36dd104-5214-4ca2-b1ab-c878987a42fe,,
 Triadimenol,0055219-65-3,C14H18ClN3O2,"1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol",kg,chemical,,,soil|agricultural,7e7dafac-5f96-495c-8a34-11fdc6e9f4e8,,55219-65-3
 Triallate,0002303-17-5,C10H16Cl3NOS,"Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester|S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate",kg,,,,"air|low population density, long-term",66bb79b7-e919-5a20-8ee6-dac7bae45e91,,
+Triallate,0002303-17-5,C10H16Cl3NOS,"Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester|S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate",kg,,,,air|non-urban air or from high stacks,3dadbc8f-3d99-4b64-97e4-af47d9150dcf,,
 Triallate,0002303-17-5,C10H16Cl3NOS,"S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate|Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester",kg,,,,air|unspecified,38b2f841-4a0f-5a86-b4f5-b4cfc9fdd2f5,,
 Triallate,0002303-17-5,C10H16Cl3NOS,"Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester|S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate",kg,,,,soil|agricultural,e5fa0589-d03f-5179-bc91-5c4b69f79bac,,
 Triallate,0002303-17-5,C10H16Cl3NOS,"S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate|Bis(1-methylethyl)carbamothioic acid S-(2,3,3-trichloro-2-propenyl)ester",kg,,,,water|ground-,41bf091c-dae0-51a3-a4e9-04fa9527de6a,,
@@ -4363,6 +4371,7 @@ Triasulfuron,0082097-50-5,C14H16ClN5O5S,,kg,chemical,,,soil|agricultural,e9d1e8d
 Triazamate,0112143-82-5,C13H22N4O3S,"ethyl 2-[[5-tert-butyl-2-(dimethylcarbamoyl)-1,2,4-triazol-3-yl]sulfanyl]acetate",kg,chemical,,,soil|agricultural,58db0688-dd63-5506-a03e-0345b9a9294b,,110895-43-7|112143-82-5
 Tribenuron,0106040-48-6,C14H15N5O6S,"2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid",kg,chemical,,,soil|agricultural,395bf19a-d3e3-4185-9bee-141fdbfd6afe,,106040-48-6
 Tribenuron-methyl,0101200-48-0,C15H17N5O6S,tribenuron,kg,,,,"air|low population density, long-term",83605d14-94d7-57e3-af9b-8cb347afd5e0,,
+Tribenuron-methyl,0101200-48-0,C15H17N5O6S,tribenuron,kg,,,,air|non-urban air or from high stacks,7968c0bd-3fea-4c2f-ae56-ebfecd94787a,,
 Tribenuron-methyl,0101200-48-0,C15H17N5O6S,tribenuron,kg,,,,air|unspecified,683ac1b9-78d5-53b7-84e0-d41f9119210e,,
 Tribenuron-methyl,0101200-48-0,C15H17N5O6S,tribenuron,kg,chemical,,,soil|agricultural,ebb21cc2-3bb4-45eb-8f7f-58bf297f6431,,101200-48-0
 Tribenuron-methyl,0101200-48-0,C15H17N5O6S,tribenuron,kg,,,,water|ground-,cb98ecf7-0c27-5bb0-9980-07ed7d15431e,,
